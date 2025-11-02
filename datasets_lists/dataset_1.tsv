@@ -1,0 +1,551 @@
+Assembly Accession	Assembly Name	Annotation Release Date	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds	Species
+GCF_022631195.1	ASM2263119v1	2025-08-31	Aeromonas hydrophila		AC133					GCF_022631195.1-RS_2025_08_31	Complete Genome	2022-03-20		1	Aeromonas hydrophila
+GCF_022631175.1	ASM2263117v1	2025-08-31	Aeromonas hydrophila		AC185					GCF_022631175.1-RS_2025_08_31	Complete Genome	2022-03-20		1	Aeromonas hydrophila
+GCF_052063265.1	ASM5206326v1	2025-08-16	Aeromonas hydrophila		3					GCF_052063265.1-RS_2025_08_16	Complete Genome	2025-08-17		3	Aeromonas hydrophila
+GCF_052063275.1	ASM5206327v1	2025-08-16	Aeromonas hydrophila		4					GCF_052063275.1-RS_2025_08_16	Complete Genome	2025-08-17		3	Aeromonas hydrophila
+GCF_052063285.1	ASM5206328v1	2025-08-16	Aeromonas hydrophila		2					GCF_052063285.1-RS_2025_08_16	Complete Genome	2025-08-17		3	Aeromonas hydrophila
+GCF_052058845.1	ASM5205884v1	2025-08-16	Aeromonas hydrophila		AH-7					GCF_052058845.1-RS_2025_08_16	Complete Genome	2025-08-16		2	Aeromonas hydrophila
+GCF_052059235.1	ASM5205923v1	2025-08-16	Aeromonas hydrophila		AH-34					GCF_052059235.1-RS_2025_08_16	Complete Genome	2025-08-16		3	Aeromonas hydrophila
+GCF_052058835.1	ASM5205883v1	2025-08-16	Aeromonas hydrophila		AH-12					GCF_052058835.1-RS_2025_08_16	Complete Genome	2025-08-16		3	Aeromonas hydrophila
+GCF_052059225.1	ASM5205922v1	2025-08-16	Aeromonas hydrophila		AH-32					GCF_052059225.1-RS_2025_08_16	Complete Genome	2025-08-16		3	Aeromonas hydrophila
+GCF_052059325.1	ASM5205932v1	2025-08-16	Aeromonas hydrophila		AH-40					GCF_052059325.1-RS_2025_08_16	Complete Genome	2025-08-16		2	Aeromonas hydrophila
+GCF_052050085.1	ASM5205008v1	2025-08-15	Aeromonas hydrophila		BIDMC_4854					GCF_052050085.1-RS_2025_08_15	Complete Genome	2025-08-16		3	Aeromonas hydrophila
+GCF_004684305.1	ASM468430v1	2025-07-23	Aeromonas hydrophila		WCX23					GCF_004684305.1-RS_2025_07_23	Complete Genome	2019-04-07		2	Aeromonas hydrophila
+GCF_003491225.1	ASM349122v1	2025-07-08	Aeromonas hydrophila		ZYAH72					GCF_003491225.1-RS_2025_07_08	Complete Genome	2018-09-07		1	Aeromonas hydrophila
+GCF_023823085.1	ASM2382308v1	2025-06-25	Aeromonas hydrophila		Ah27					GCF_023823085.1-RS_2025_06_25	Complete Genome	2022-06-21		1	Aeromonas hydrophila
+GCF_050887685.1	LP-2	2025-06-12	Aeromonas hydrophila		LP-2					GCF_050887685.1-RS_2025_06_12	Complete Genome	2025-06-13		1	Aeromonas hydrophila
+GCF_039718985.1	ASM3971898v1	2025-05-22	Aeromonas hydrophila		SHSK47					GCF_039718985.1-RS_2025_05_22	Complete Genome	2024-05-23		1	Aeromonas hydrophila
+GCF_029962325.1	ASM2996232v1	2025-05-13	Aeromonas hydrophila		NN-MR659					GCF_029962325.1-RS_2025_05_13	Complete Genome	2023-05-10		1	Aeromonas hydrophila
+GCF_022982835.1	ASM2298283v1	2025-05-07	Aeromonas hydrophila		Ah2111					GCF_022982835.1-RS_2025_05_07	Complete Genome	2022-04-14		8	Aeromonas hydrophila
+GCF_050039675.1	ASM5003967v1	2025-05-01	Aeromonas hydrophila		14B-LG1					GCF_050039675.1-RS_2025_05_01	Complete Genome	2025-05-13		1	Aeromonas hydrophila
+GCF_001895965.1	ASM189596v1	2025-04-30	Aeromonas hydrophila		MX16A					GCF_001895965.1-RS_2025_04_30	Complete Genome	2016-12-09		1	Aeromonas hydrophila
+GCF_022869925.1	ASM2286992v1	2025-04-26	Aeromonas hydrophila		PartN-Ahydrophila-RM8376					GCF_022869925.1-RS_2025_04_26	Complete Genome	2022-04-11		1	Aeromonas hydrophila
+GCF_000633175.1	ASM63317v1	2025-04-23	Aeromonas hydrophila subsp. hydrophila AL09-71		AL09-71			4		GCF_000633175.1-RS_2025_04_23	Complete Genome	2014-04-18		1	Aeromonas hydrophila
+GCF_011602425.1	ASM1160242v1	2025-04-19	Aeromonas hydrophila		LHW39					GCF_011602425.1-RS_2025_04_19	Complete Genome	2020-03-21		1	Aeromonas hydrophila
+GCF_029773045.1	ASM2977304v1	2025-04-16	Aeromonas hydrophila		YURI 17					GCF_029773045.1-RS_2025_04_16	Complete Genome	2023-04-17		3	Aeromonas hydrophila
+GCF_028994095.1	ASM2899409v1	2025-04-13	Aeromonas hydrophila		K522					GCF_028994095.1-RS_2025_04_13	Complete Genome	2023-03-05		5	Aeromonas hydrophila
+GCF_004684325.1	ASM468432v1	2025-04-13	Aeromonas hydrophila		23-C-23					GCF_004684325.1-RS_2025_04_13	Complete Genome	2019-04-07		2	Aeromonas hydrophila
+GCF_018802305.1	ASM1880230v1	2025-04-13	Aeromonas hydrophila		4960					GCF_018802305.1-RS_2025_04_13	Complete Genome	2021-06-09		1	Aeromonas hydrophila
+GCF_001019645.1	ASM101964v1	2025-04-13	Aeromonas hydrophila NJ-35		NJ-35					GCF_001019645.1-RS_2025_04_13	Complete Genome	2015-06-03		1	Aeromonas hydrophila
+GCF_018802385.1	ASM1880238v1	2025-04-12	Aeromonas hydrophila		3019					GCF_018802385.1-RS_2025_04_12	Complete Genome	2021-06-09		1	Aeromonas hydrophila
+GCF_029320915.1	ASM2932091v1	2025-04-12	Aeromonas hydrophila		516					GCF_029320915.1-RS_2025_04_12	Complete Genome	2023-03-21		2	Aeromonas hydrophila
+GCF_029025785.1	ASM2902578v1	2025-04-11	Aeromonas hydrophila		K533					GCF_029025785.1-RS_2025_04_11	Complete Genome	2023-03-08		4	Aeromonas hydrophila
+GCF_022557195.1	ASM2255719v1	2025-04-11	Aeromonas hydrophila		LP0103					GCF_022557195.1-RS_2025_04_11	Complete Genome	2022-03-13		1	Aeromonas hydrophila
+GCF_022759545.1	ASM2275954v1	2025-04-11	Aeromonas hydrophila		A008N2					GCF_022759545.1-RS_2025_04_11	Complete Genome	2022-03-30		1	Aeromonas hydrophila
+GCF_037765365.1	ASM3776536v1	2025-04-10	Aeromonas hydrophila		AH230115					GCF_037765365.1-RS_2025_04_10	Complete Genome	2024-04-05		3	Aeromonas hydrophila
+GCF_022700835.1	ASM2270083v1	2025-04-10	Aeromonas hydrophila		Aer_Pi25.1HTAS					GCF_022700835.1-RS_2025_04_10	Complete Genome	2022-03-28		1	Aeromonas hydrophila
+GCF_022700855.1	ASM2270085v1	2025-04-10	Aeromonas hydrophila		Aer_Brac14A					GCF_022700855.1-RS_2025_04_10	Complete Genome	2022-03-28		1	Aeromonas hydrophila
+GCF_022700815.1	ASM2270081v1	2025-04-10	Aeromonas hydrophila		Aer_Brac66					GCF_022700815.1-RS_2025_04_10	Complete Genome	2022-03-28		1	Aeromonas hydrophila
+GCF_017310215.1	ASM1731021v1	2025-04-08	Aeromonas hydrophila		OnP3.1					GCF_017310215.1-RS_2025_04_08	Complete Genome	2021-03-09		1	Aeromonas hydrophila
+GCF_017310195.1	ASM1731019v1	2025-04-08	Aeromonas hydrophila		Brac6					GCF_017310195.1-RS_2025_04_08	Complete Genome	2021-03-09		1	Aeromonas hydrophila
+GCF_037815895.1	ASM3781589v1	2025-04-05	Aeromonas hydrophila		BE2					GCF_037815895.1-RS_2025_04_05	Complete Genome	2024-04-06		1	Aeromonas hydrophila
+GCF_003491245.1	ASM349124v1	2025-04-03	Aeromonas hydrophila		ZYAH75					GCF_003491245.1-RS_2025_04_03	Complete Genome	2018-09-07		1	Aeromonas hydrophila
+GCF_028621795.1	ASM2862179v1	2025-03-25	Aeromonas hydrophila		516					GCF_028621795.1-RS_2025_03_25	Complete Genome	2023-02-14		1	Aeromonas hydrophila
+GCF_001683535.1	ASM168353v1	2025-03-05	Aeromonas hydrophila		GYK1					GCF_001683535.1-RS_2025_03_05	Complete Genome	2016-07-11		1	Aeromonas hydrophila
+GCF_001687125.1	ASM168712v1	2025-03-05	Aeromonas hydrophila		AHNIH1					GCF_001687125.1-RS_2025_03_05	Complete Genome	2016-07-18		2	Aeromonas hydrophila
+GCF_001455365.1	ASM145536v1	2025-03-03	Aeromonas hydrophila		JBN2301					GCF_001455365.1-RS_2025_03_03	Complete Genome	2015-12-02		4	Aeromonas hydrophila
+GCF_001518775.1	ASM151877v1	2025-03-03	Aeromonas hydrophila		D4					GCF_001518775.1-RS_2025_03_03	Complete Genome	2016-01-20		5	Aeromonas hydrophila
+GCF_047777985.1	ASM4777798v1	2025-02-16	Aeromonas hydrophila		BJ014					GCF_047777985.1-RS_2025_02_16	Complete Genome	2025-02-16		5	Aeromonas hydrophila
+GCF_047777975.1	ASM4777797v1	2025-02-16	Aeromonas hydrophila		BJ018					GCF_047777975.1-RS_2025_02_16	Complete Genome	2025-02-16		5	Aeromonas hydrophila
+GCF_014169715.1	ASM1416971v1	2025-02-13	Aeromonas hydrophila		WP8-S18-ESBL-02					GCF_014169715.1-RS_2025_02_13	Complete Genome	2020-07-21		2	Aeromonas hydrophila
+GCF_004296435.1	ASM429643v1	2025-02-12	Aeromonas hydrophila		GSH8-2					GCF_004296435.1-RS_2025_02_12	Complete Genome	2019-02-14		2	Aeromonas hydrophila
+GCF_024637955.1	ASM2463795v1	2025-08-30	Bacillus velezensis		EM-1					GCF_024637955.1-RS_2025_08_30	Complete Genome	2022-08-12		1	Bacillus velezensis
+GCF_030979955.1	ASM3097995v1	2025-08-30	Bacillus velezensis		NBNZ-0060					GCF_030979955.1-RS_2025_08_30	Complete Genome	2023-08-30		1	Bacillus velezensis
+GCF_019334525.1	ASM1933452v1	2025-08-26	Bacillus velezensis		LABIM44					GCF_019334525.1-RS_2025_08_26	Complete Genome	2021-07-25		1	Bacillus velezensis
+GCF_052229975.1	ASM5222997v1	2025-08-26	Bacillus velezensis		NS13					GCF_052229975.1-RS_2025_08_26	Complete Genome	2025-08-28		1	Bacillus velezensis
+GCF_024610615.1	ASM2461061v1	2025-08-24	Bacillus velezensis		PMC206					GCF_024610615.1-RS_2025_08_24	Complete Genome	2022-08-10		3	Bacillus velezensis
+GCF_019285615.1	ASM1928561v1	2025-08-21	Bacillus velezensis		LBY-1					GCF_019285615.1-RS_2025_08_21	Complete Genome	2021-07-20		4	Bacillus velezensis
+GCF_052161765.1	ASM5216176v1	2025-08-21	Bacillus velezensis		JLU-53					GCF_052161765.1-RS_2025_08_21	Complete Genome	2025-08-22		1	Bacillus velezensis
+GCF_052144505.1	ASM5214450v1	2025-08-20	Bacillus velezensis		77-E7-A5					GCF_052144505.1-RS_2025_08_20	Complete Genome	2025-08-20		1	Bacillus velezensis
+GCF_052142305.1	ASM5214230v1	2025-08-20	Bacillus velezensis		77-E7					GCF_052142305.1-RS_2025_08_20	Complete Genome	2025-08-20		1	Bacillus velezensis
+GCF_052145415.1	ASM5214541v1	2025-08-20	Bacillus velezensis		77-WTA					GCF_052145415.1-RS_2025_08_20	Complete Genome	2025-08-20		1	Bacillus velezensis
+GCF_052147335.1	ASM5214733v1	2025-08-20	Bacillus velezensis		77-E7-BHI					GCF_052147335.1-RS_2025_08_20	Complete Genome	2025-08-20		1	Bacillus velezensis
+GCF_052144495.1	ASM5214449v1	2025-08-20	Bacillus velezensis		96-E6					GCF_052144495.1-RS_2025_08_20	Complete Genome	2025-08-20		1	Bacillus velezensis
+GCF_052146075.1	ASM5214607v1	2025-08-20	Bacillus velezensis		96-WTA					GCF_052146075.1-RS_2025_08_20	Complete Genome	2025-08-20		1	Bacillus velezensis
+GCF_052076155.1	ASM5207615v1	2025-08-18	Bacillus velezensis		0904					GCF_052076155.1-RS_2025_08_18	Complete Genome	2025-08-18		1	Bacillus velezensis
+GCF_029536735.1	ASM2953673v2	2025-08-17	Bacillus velezensis		PRO76					GCF_029536735.1-RS_2025_08_17	Complete Genome	2025-04-18		3	Bacillus velezensis
+GCF_024508215.1	ASM2450821v1	2025-08-16	Bacillus velezensis		Ba-0321					GCF_024508215.1-RS_2025_08_16	Complete Genome	2022-08-03		1	Bacillus velezensis
+GCF_052055905.1	ASM5205590v1	2025-08-16	Bacillus velezensis		FBa1					GCF_052055905.1-RS_2025_08_16	Complete Genome	2025-08-16		1	Bacillus velezensis
+GCF_024499135.1	ASM2449913v1	2025-08-15	Bacillus velezensis		C5					GCF_024499135.1-RS_2025_08_15	Complete Genome	2022-08-01		1	Bacillus velezensis
+GCF_051990605.1	ASM5199060v1	2025-08-14	Bacillus velezensis		HW_001					GCF_051990605.1-RS_2025_08_14	Complete Genome	2025-08-14		1	Bacillus velezensis
+GCF_051940895.1	ASM5194089v1	2025-08-13	Bacillus velezensis		GZ8-6					GCF_051940895.1-RS_2025_08_13	Complete Genome	2025-08-13		1	Bacillus velezensis
+GCF_051935925.1	ASM5193592v1	2025-08-13	Bacillus velezensis		J4					GCF_051935925.1-RS_2025_08_13	Complete Genome	2025-08-13		1	Bacillus velezensis
+GCF_051912555.1	ASM5191255v1	2025-08-12	Bacillus velezensis		LMY3-5					GCF_051912555.1-RS_2025_08_12	Complete Genome	2025-08-12		1	Bacillus velezensis
+GCF_019222745.1	ASM1922274v1	2025-08-11	Bacillus velezensis		BS-G1					GCF_019222745.1-RS_2025_08_11	Complete Genome	2021-07-15		1	Bacillus velezensis
+GCF_014841075.1	ASM1484107v1	2025-08-10	Bacillus velezensis		BSC16a					GCF_014841075.1-RS_2025_08_10	Complete Genome	2020-10-04		1	Bacillus velezensis
+GCF_024408125.1	ASM2440812v1	2025-08-09	Bacillus velezensis		906					GCF_024408125.1-RS_2025_08_09	Complete Genome	2022-07-25		1	Bacillus velezensis
+GCF_051861845.1	ASM5186184v1	2025-08-07	Bacillus velezensis		BX77					GCF_051861845.1-RS_2025_08_07	Complete Genome	2025-08-08		1	Bacillus velezensis
+GCF_051801825.1	ASM5180182v1	2025-08-05	Bacillus velezensis		JLU-55					GCF_051801825.1-RS_2025_08_05	Complete Genome	2025-08-06		1	Bacillus velezensis
+GCF_051799895.1	ASM5179989v1	2025-08-05	Bacillus velezensis		ST5					GCF_051799895.1-RS_2025_08_05	Complete Genome	2025-08-06		1	Bacillus velezensis
+GCF_013367755.1	ASM1336775v1	2025-07-30	Bacillus velezensis		WLYS23					GCF_013367755.1-RS_2025_07_30	Complete Genome	2020-06-23		1	Bacillus velezensis
+GCF_051549775.1	ASM5154977v1	2025-07-30	Bacillus velezensis		WSR1					GCF_051549775.1-RS_2025_07_30	Complete Genome	2025-07-31		2	Bacillus velezensis
+GCF_030544925.1	ASM3054492v1	2025-07-25	Bacillus velezensis		XDY66					GCF_030544925.1-RS_2025_07_25	Complete Genome	2023-07-26		2	Bacillus velezensis
+GCF_051516225.1	ASM5151622v1	2025-07-24	Bacillus velezensis		MZ09					GCF_051516225.1-RS_2025_07_24	Complete Genome	2025-07-29		1	Bacillus velezensis
+GCF_051472655.1	ASM5147265v1	2025-07-23	Bacillus velezensis		Soil-4-2					GCF_051472655.1-RS_2025_07_23	Complete Genome	2025-07-23		1	Bacillus velezensis
+GCF_030520225.1	ASM3052022v1	2025-07-23	Bacillus velezensis		SRCM126726					GCF_030520225.1-RS_2025_07_23	Complete Genome	2023-07-24		1	Bacillus velezensis
+GCF_030518635.1	ASM3051863v1	2025-07-22	Bacillus velezensis		NC-B4					GCF_030518635.1-RS_2025_07_22	Complete Genome	2023-07-23		1	Bacillus velezensis
+GCF_030516885.1	ASM3051688v1	2025-07-21	Bacillus velezensis		DW-7					GCF_030516885.1-RS_2025_07_21	Complete Genome	2023-07-21		1	Bacillus velezensis
+GCF_030517005.1	ASM3051700v1	2025-07-21	Bacillus velezensis		B1					GCF_030517005.1-RS_2025_07_21	Complete Genome	2023-07-21		1	Bacillus velezensis
+GCF_030517045.1	ASM3051704v1	2025-07-21	Bacillus velezensis		B3					GCF_030517045.1-RS_2025_07_21	Complete Genome	2023-07-21		1	Bacillus velezensis
+GCF_013201135.1	ASM1320113v1	2025-07-19	Bacillus velezensis		A2					GCF_013201135.1-RS_2025_07_19	Complete Genome	2020-05-31		1	Bacillus velezensis
+GCF_013201465.1	ASM1320146v1	2025-07-19	Bacillus velezensis		B268					GCF_013201465.1-RS_2025_07_19	Complete Genome	2020-06-01		1	Bacillus velezensis
+GCF_030506345.1	ASM3050634v1	2025-07-19	Bacillus velezensis		411					GCF_030506345.1-RS_2025_07_19	Complete Genome	2023-07-19		1	Bacillus velezensis
+GCF_003047005.1	ASM304700v1	2025-07-18	Bacillus velezensis		J7-1					GCF_003047005.1-RS_2025_07_18	Complete Genome	2018-04-10		1	Bacillus velezensis
+GCF_003047025.1	ASM304702v1	2025-07-18	Bacillus velezensis		8-2					GCF_003047025.1-RS_2025_07_18	Complete Genome	2018-04-10		1	Bacillus velezensis
+GCF_003047045.1	ASM304704v1	2025-07-18	Bacillus velezensis		131-4					GCF_003047045.1-RS_2025_07_18	Complete Genome	2018-04-10		1	Bacillus velezensis
+GCF_002005345.1	ASM200534v1	2025-07-16	Bacillus velezensis		GH1-13					GCF_002005345.1-RS_2025_07_16	Complete Genome	2017-02-21		2	Bacillus velezensis
+GCF_013122275.1	ASM1312227v1	2025-07-16	Bacillus velezensis		EN01					GCF_013122275.1-RS_2025_07_16	Complete Genome	2020-05-19		1	Bacillus velezensis
+GCF_001723585.1	ASM172358v1	2025-07-16	Bacillus velezensis		M75					GCF_001723585.1-RS_2025_07_16	Complete Genome	2016-09-13		1	Bacillus velezensis
+GCF_002796465.1	ASM279646v1	2025-07-16	Bacillus velezensis		CN026					GCF_002796465.1-RS_2025_07_16	Complete Genome	2017-11-27		1	Bacillus velezensis
+GCF_030444515.1	ASM3044451v1	2025-07-16	Bacillus velezensis		SSF6					GCF_030444515.1-RS_2025_07_16	Complete Genome	2023-07-13		1	Bacillus velezensis
+GCF_051359705.1	ASM5135970v1	2025-07-16	Bacillus velezensis		FS3					GCF_051359705.1-RS_2025_07_16	Complete Genome	2025-07-17		4	Bacillus velezensis
+GCF_030931755.1	ASM3093175v1	2025-08-30	Bordetella pertussis		D420Sm1					GCF_030931755.1-RS_2025_08_30	Complete Genome	2023-08-29		1	Bordetella pertussis
+GCF_001686465.1	ASM168646v1	2025-08-25	Bordetella pertussis		VA-52					GCF_001686465.1-RS_2025_08_25	Complete Genome	2016-07-15		1	Bordetella pertussis
+GCF_004635445.1	ASM463544v1	2025-08-25	Bordetella pertussis		J250					GCF_004635445.1-RS_2025_08_25	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004637025.1	ASM463702v1	2025-08-25	Bordetella pertussis		J586					GCF_004637025.1-RS_2025_08_25	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_052058455.1	ASM5205845v1	2025-08-16	Bordetella pertussis		S5					GCF_052058455.1-RS_2025_08_16	Complete Genome	2025-08-16		1	Bordetella pertussis
+GCF_030644665.1	ASM3064466v1	2025-08-09	Bordetella pertussis		S3					GCF_030644665.1-RS_2025_08_09	Complete Genome	2023-08-04		1	Bordetella pertussis
+GCF_030644705.1	ASM3064470v1	2025-08-09	Bordetella pertussis		S1					GCF_030644705.1-RS_2025_08_09	Complete Genome	2023-08-04		1	Bordetella pertussis
+GCF_030644645.1	ASM3064464v1	2025-08-09	Bordetella pertussis		S4					GCF_030644645.1-RS_2025_08_09	Complete Genome	2023-08-04		1	Bordetella pertussis
+GCF_030644685.1	ASM3064468v1	2025-08-08	Bordetella pertussis		S2					GCF_030644685.1-RS_2025_08_08	Complete Genome	2023-08-04		1	Bordetella pertussis
+GCF_004637225.1	ASM463722v1	2025-07-30	Bordetella pertussis		I182					GCF_004637225.1-RS_2025_07_30	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_050942035.1	ASM5094203v1	2025-06-18	Bordetella pertussis		BP0720/24					GCF_050942035.1-RS_2025_06_18	Complete Genome	2025-06-18		1	Bordetella pertussis
+GCF_050942115.1	ASM5094211v1	2025-06-18	Bordetella pertussis		BP0054/24					GCF_050942115.1-RS_2025_06_18	Complete Genome	2025-06-18		1	Bordetella pertussis
+GCF_050942065.1	ASM5094206v1	2025-06-18	Bordetella pertussis		BP16367/24					GCF_050942065.1-RS_2025_06_18	Complete Genome	2025-06-18		1	Bordetella pertussis
+GCF_050942045.1	ASM5094204v1	2025-06-18	Bordetella pertussis		BP0274/24					GCF_050942045.1-RS_2025_06_18	Complete Genome	2025-06-18		1	Bordetella pertussis
+GCF_050942125.1	ASM5094212v1	2025-06-18	Bordetella pertussis		BP0071/24					GCF_050942125.1-RS_2025_06_18	Complete Genome	2025-06-18		1	Bordetella pertussis
+GCF_050942135.1	ASM5094213v1	2025-06-18	Bordetella pertussis		BP0055/24					GCF_050942135.1-RS_2025_06_18	Complete Genome	2025-06-18		1	Bordetella pertussis
+GCF_050942055.1	ASM5094205v1	2025-06-18	Bordetella pertussis		BP1180/24					GCF_050942055.1-RS_2025_06_18	Complete Genome	2025-06-18		1	Bordetella pertussis
+GCF_050942235.1	ASM5094223v1	2025-06-18	Bordetella pertussis		BP1194/24					GCF_050942235.1-RS_2025_06_18	Complete Genome	2025-06-18		1	Bordetella pertussis
+GCF_023612135.1	ASM2361213v1	2025-06-04	Bordetella pertussis CS		CS					GCF_023612135.1-RS_2025_06_04	Complete Genome	2022-05-31		1	Bordetella pertussis
+GCF_004635485.1	ASM463548v1	2025-04-29	Bordetella pertussis		J401					GCF_004635485.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635905.1	ASM463590v1	2025-04-29	Bordetella pertussis		J603					GCF_004635905.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635865.1	ASM463586v1	2025-04-29	Bordetella pertussis		J605					GCF_004635865.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635845.1	ASM463584v1	2025-04-29	Bordetella pertussis		J606					GCF_004635845.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635885.1	ASM463588v1	2025-04-29	Bordetella pertussis		J604					GCF_004635885.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004636505.1	ASM463650v1	2025-04-29	Bordetella pertussis		J683					GCF_004636505.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004636545.1	ASM463654v1	2025-04-29	Bordetella pertussis		J680					GCF_004636545.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004636565.1	ASM463656v1	2025-04-29	Bordetella pertussis		J679					GCF_004636565.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004636525.1	ASM463652v1	2025-04-29	Bordetella pertussis		J682					GCF_004636525.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635465.1	ASM463546v1	2025-04-29	Bordetella pertussis		J402					GCF_004635465.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635505.1	ASM463550v1	2025-04-29	Bordetella pertussis		J392					GCF_004635505.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635625.1	ASM463562v1	2025-04-29	Bordetella pertussis		J700					GCF_004635625.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635665.1	ASM463566v1	2025-04-29	Bordetella pertussis		J698					GCF_004635665.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635645.1	ASM463564v1	2025-04-29	Bordetella pertussis		J699					GCF_004635645.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004636485.1	ASM463648v1	2025-04-29	Bordetella pertussis		J687					GCF_004636485.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635705.1	ASM463570v1	2025-04-29	Bordetella pertussis		J695					GCF_004635705.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635745.1	ASM463574v1	2025-04-29	Bordetella pertussis		J692					GCF_004635745.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004636465.1	ASM463646v1	2025-04-29	Bordetella pertussis		J691					GCF_004636465.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635725.1	ASM463572v1	2025-04-29	Bordetella pertussis		J693					GCF_004635725.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635765.1	ASM463576v1	2025-04-29	Bordetella pertussis		J690					GCF_004635765.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635605.1	ASM463560v1	2025-04-29	Bordetella pertussis		J703					GCF_004635605.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004636445.1	ASM463644v1	2025-04-29	Bordetella pertussis		J702					GCF_004636445.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635805.1	ASM463580v1	2025-04-29	Bordetella pertussis		J617					GCF_004635805.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635945.1	ASM463594v1	2025-04-29	Bordetella pertussis		J616					GCF_004635945.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_004635825.1	ASM463582v1	2025-04-29	Bordetella pertussis		J614					GCF_004635825.1-RS_2025_04_29	Complete Genome	2019-04-05		1	Bordetella pertussis
+GCF_022407395.1	ASM2240739v1	2025-04-16	Bordetella pertussis		NZ35					GCF_022407395.1-RS_2025_04_16	Complete Genome	2022-02-28		1	Bordetella pertussis
+GCF_022409395.1	ASM2240939v1	2025-04-16	Bordetella pertussis		NZ13					GCF_022409395.1-RS_2025_04_16	Complete Genome	2022-02-28		1	Bordetella pertussis
+GCF_003860305.1	ASM386030v1	2025-04-16	Bordetella pertussis		BPD1					GCF_003860305.1-RS_2025_04_16	Complete Genome	2018-12-04		1	Bordetella pertussis
+GCF_003355085.1	ASM335508v1	2025-04-16	Bordetella pertussis		UK76					GCF_003355085.1-RS_2025_04_16	Complete Genome	2018-08-03		1	Bordetella pertussis
+GCF_022409135.1	ASM2240913v1	2025-04-16	Bordetella pertussis		NZ66					GCF_022409135.1-RS_2025_04_16	Complete Genome	2022-02-28		1	Bordetella pertussis
+GCF_022407895.1	ASM2240789v1	2025-04-16	Bordetella pertussis		NZ24					GCF_022407895.1-RS_2025_04_16	Complete Genome	2022-02-28		1	Bordetella pertussis
+GCF_051560105.1	ASM5156010v1	2025-07-30	Burkholderia pseudomallei		TSV287_S					GCF_051560105.1-RS_2025_07_30	Complete Genome	2025-07-29	JBPVQO01	2	Burkholderia pseudomallei
+GCF_051560125.1	ASM5156012v1	2025-07-30	Burkholderia pseudomallei		TSV140_S					GCF_051560125.1-RS_2025_07_30	Complete Genome	2025-07-29	JBPVQR01	3	Burkholderia pseudomallei
+GCF_051560145.1	ASM5156014v1	2025-07-30	Burkholderia pseudomallei		TSV82_R					GCF_051560145.1-RS_2025_07_30	Complete Genome	2025-07-29	JBPVQS01	2	Burkholderia pseudomallei
+GCF_051560065.1	ASM5156006v1	2025-07-30	Burkholderia pseudomallei		TSV268_S					GCF_051560065.1-RS_2025_07_30	Complete Genome	2025-07-29	JBPVQQ01	2	Burkholderia pseudomallei
+GCF_051560085.1	ASM5156008v1	2025-07-30	Burkholderia pseudomallei		TSV270_S					GCF_051560085.1-RS_2025_07_30	Complete Genome	2025-07-29	JBPVQP01	2	Burkholderia pseudomallei
+GCF_004348075.1	ASM434807v1	2025-07-23	Burkholderia pseudomallei		BPs116					GCF_004348075.1-RS_2025_07_23	Complete Genome	2019-03-13		2	Burkholderia pseudomallei
+GCF_004367705.1	ASM436770v1	2025-07-23	Burkholderia pseudomallei		BPs112			Melioidosis patient		GCF_004367705.1-RS_2025_07_23	Complete Genome	2019-03-23		2	Burkholderia pseudomallei
+GCF_004367725.1	ASM436772v1	2025-07-23	Burkholderia pseudomallei		BPs133			Melioidosis patient		GCF_004367725.1-RS_2025_07_23	Complete Genome	2019-03-23		2	Burkholderia pseudomallei
+GCF_018228525.1	ASM1822852v1	2025-07-20	Burkholderia pseudomallei		N2					GCF_018228525.1-RS_2025_07_20	Complete Genome	2021-05-03		3	Burkholderia pseudomallei
+GCF_018228385.1	ASM1822838v1	2025-07-20	Burkholderia pseudomallei		BD5					GCF_018228385.1-RS_2025_07_20	Complete Genome	2021-05-03		3	Burkholderia pseudomallei
+GCF_018228605.1	ASM1822860v1	2025-07-20	Burkholderia pseudomallei		AW17-22					GCF_018228605.1-RS_2025_07_20	Complete Genome	2021-05-03		3	Burkholderia pseudomallei
+GCF_018228585.1	ASM1822858v1	2025-07-20	Burkholderia pseudomallei		AW44					GCF_018228585.1-RS_2025_07_20	Complete Genome	2021-05-03		3	Burkholderia pseudomallei
+GCF_018228345.1	ASM1822834v1	2025-07-20	Burkholderia pseudomallei		WC19					GCF_018228345.1-RS_2025_07_20	Complete Genome	2021-05-03		3	Burkholderia pseudomallei
+GCF_018228565.1	ASM1822856v1	2025-07-20	Burkholderia pseudomallei		AW17-23					GCF_018228565.1-RS_2025_07_20	Complete Genome	2021-05-03		3	Burkholderia pseudomallei
+GCF_018228545.1	ASM1822854v1	2025-07-20	Burkholderia pseudomallei		AW9					GCF_018228545.1-RS_2025_07_20	Complete Genome	2021-05-03		3	Burkholderia pseudomallei
+GCF_003798265.1	ASM379826v1	2025-07-16	Burkholderia pseudomallei		FDAARGOS_592					GCF_003798265.1-RS_2025_07_16	Complete Genome	2018-11-20		2	Burkholderia pseudomallei
+GCF_003445415.1	ASM344541v1	2025-07-07	Burkholderia pseudomallei		BEK					GCF_003445415.1-RS_2025_07_07	Complete Genome	2014-09-18		2	Burkholderia pseudomallei
+GCF_018771365.1	ASM1877136v1	2025-06-25	Burkholderia pseudomallei		VBP21822					GCF_018771365.1-RS_2025_06_25	Complete Genome	2021-06-08		4	Burkholderia pseudomallei
+GCF_030297255.1	ASM3029725v1	2025-06-21	Burkholderia pseudomallei		GTC3P0254T					GCF_030297255.1-RS_2025_06_21	Complete Genome	2023-05-16		2	Burkholderia pseudomallei
+GCF_030297335.1	ASM3029733v1	2025-06-21	Burkholderia pseudomallei		KM390					GCF_030297335.1-RS_2025_06_21	Complete Genome	2023-05-16		2	Burkholderia pseudomallei
+GCF_030297215.1	ASM3029721v1	2025-06-21	Burkholderia pseudomallei		GTC3P0050					GCF_030297215.1-RS_2025_06_21	Complete Genome	2023-05-16		2	Burkholderia pseudomallei
+GCF_030297235.1	ASM3029723v1	2025-06-21	Burkholderia pseudomallei		GTC3P0054					GCF_030297235.1-RS_2025_06_21	Complete Genome	2023-05-16		2	Burkholderia pseudomallei
+GCF_030297275.1	ASM3029727v1	2025-06-21	Burkholderia pseudomallei		Kanagawa					GCF_030297275.1-RS_2025_06_21	Complete Genome	2023-05-16		2	Burkholderia pseudomallei
+GCF_030297295.1	ASM3029729v1	2025-06-21	Burkholderia pseudomallei		Tokushima					GCF_030297295.1-RS_2025_06_21	Complete Genome	2023-05-16		2	Burkholderia pseudomallei
+GCF_030297195.1	ASM3029719v1	2025-06-21	Burkholderia pseudomallei		GTC3P0019					GCF_030297195.1-RS_2025_06_21	Complete Genome	2023-05-16		2	Burkholderia pseudomallei
+GCF_030297355.1	ASM3029735v1	2025-06-21	Burkholderia pseudomallei		KM391					GCF_030297355.1-RS_2025_06_21	Complete Genome	2023-05-16		2	Burkholderia pseudomallei
+GCF_030297315.1	ASM3029731v1	2025-06-21	Burkholderia pseudomallei		KM376					GCF_030297315.1-RS_2025_06_21	Complete Genome	2023-05-16		3	Burkholderia pseudomallei
+GCF_038983115.1	ASM3898311v1	2025-05-26	Burkholderia pseudomallei		SCBP007					GCF_038983115.1-RS_2025_05_26	Complete Genome	2024-05-01	JAQIYQ01	2	Burkholderia pseudomallei
+GCF_038983225.1	ASM3898322v1	2025-05-26	Burkholderia pseudomallei		SCBP001					GCF_038983225.1-RS_2025_05_26	Complete Genome	2024-05-01	JAQIYP01	2	Burkholderia pseudomallei
+GCF_050320195.1	UFBP490F	2025-05-13	Burkholderia pseudomallei		490f					GCF_050320195.1-RS_2025_05_13	Complete Genome	2025-05-14		2	Burkholderia pseudomallei
+GCF_016864355.1	ASM1686435v1	2025-04-20	Burkholderia pseudomallei		VB29710					GCF_016864355.1-RS_2025_04_20	Complete Genome	2021-02-11		2	Burkholderia pseudomallei
+GCF_017378355.1	ASM1737835v1	2025-04-20	Burkholderia pseudomallei		VBP21885					GCF_017378355.1-RS_2025_04_20	Complete Genome	2021-03-18		2	Burkholderia pseudomallei
+GCF_017378235.1	ASM1737823v1	2025-04-20	Burkholderia pseudomallei		VBM23831					GCF_017378235.1-RS_2025_04_20	Complete Genome	2021-03-18		3	Burkholderia pseudomallei
+GCF_004367685.1	ASM436768v1	2025-04-19	Burkholderia pseudomallei		BPs123					GCF_004367685.1-RS_2025_04_19	Complete Genome	2019-03-23		2	Burkholderia pseudomallei
+GCF_004348055.1	ASM434805v1	2025-04-19	Burkholderia pseudomallei		BPs115					GCF_004348055.1-RS_2025_04_19	Complete Genome	2019-03-13		2	Burkholderia pseudomallei
+GCF_004367665.1	ASM436766v1	2025-04-19	Burkholderia pseudomallei		BPs114					GCF_004367665.1-RS_2025_04_19	Complete Genome	2019-03-23		2	Burkholderia pseudomallei
+GCF_017378195.1	ASM1737819v1	2025-04-16	Burkholderia pseudomallei		VBM21885					GCF_017378195.1-RS_2025_04_16	Complete Genome	2021-03-18		2	Burkholderia pseudomallei
+GCF_017378275.1	ASM1737827v1	2025-04-16	Burkholderia pseudomallei		VBP399					GCF_017378275.1-RS_2025_04_16	Complete Genome	2021-03-18		2	Burkholderia pseudomallei
+GCF_017378155.1	ASM1737815v1	2025-04-16	Burkholderia pseudomallei		VBM21822					GCF_017378155.1-RS_2025_04_16	Complete Genome	2021-03-18		3	Burkholderia pseudomallei
+GCF_017378435.1	ASM1737843v1	2025-04-16	Burkholderia pseudomallei		VBP23831					GCF_017378435.1-RS_2025_04_16	Complete Genome	2021-03-18		2	Burkholderia pseudomallei
+GCF_004323015.1	ASM432301v1	2025-04-11	Burkholderia pseudomallei		BPs110					GCF_004323015.1-RS_2025_04_11	Complete Genome	2019-03-04		2	Burkholderia pseudomallei
+GCF_004323035.1	ASM432303v1	2025-04-11	Burkholderia pseudomallei		BPs111					GCF_004323035.1-RS_2025_04_11	Complete Genome	2019-03-04		2	Burkholderia pseudomallei
+GCF_000757015.2	ASM75701v2	2025-04-07	Burkholderia pseudomallei		PHLS 112					GCF_000757015.2-RS_2025_04_07	Complete Genome	2015-03-20		2	Burkholderia pseudomallei
+GCF_000959305.1	ASM95930v1	2025-04-07	Burkholderia pseudomallei		MSHR668					GCF_000959305.1-RS_2025_04_07	Complete Genome	2015-03-20		2	Burkholderia pseudomallei
+GCF_000959285.1	ASM95928v1	2025-04-07	Burkholderia pseudomallei K96243		K96243					GCF_000959285.1-RS_2025_04_07	Complete Genome	2015-03-20		2	Burkholderia pseudomallei
+GCF_000959145.1	ASM95914v1	2025-04-07	Burkholderia pseudomallei 406e		406E					GCF_000959145.1-RS_2025_04_07	Complete Genome	2015-03-20		2	Burkholderia pseudomallei
+GCF_000959125.1	ASM95912v1	2025-04-07	Burkholderia pseudomallei 1026b		1026b					GCF_000959125.1-RS_2025_04_07	Complete Genome	2015-03-20		2	Burkholderia pseudomallei
+GCF_000757035.2	ASM75703v2	2025-04-07	Burkholderia pseudomallei Pasteur 52237		Pasteur 52237					GCF_000757035.2-RS_2025_04_07	Complete Genome	2015-03-20		2	Burkholderia pseudomallei
+GCF_000959265.1	ASM95926v1	2025-04-07	Burkholderia pseudomallei 7894		7894					GCF_000959265.1-RS_2025_04_07	Complete Genome	2015-03-20		2	Burkholderia pseudomallei
+GCF_000959225.1	ASM95922v1	2025-04-07	Burkholderia pseudomallei MSHR2543		MSHR2543					GCF_000959225.1-RS_2025_04_07	Complete Genome	2015-03-20		2	Burkholderia pseudomallei
+GCF_052073595.1	ASM5207359v1	2025-08-17	Enterobacter hormaechei		EH18242023BG					GCF_052073595.1-RS_2025_08_17	Complete Genome	2025-08-17	JBQHIK01	6	Enterobacter hormaechei
+GCF_052073625.1	ASM5207362v1	2025-08-17	Enterobacter hormaechei		EH36082023BG					GCF_052073625.1-RS_2025_08_17	Complete Genome	2025-08-17	JBQHIL01	4	Enterobacter hormaechei
+GCF_052073395.1	ASM5207339v1	2025-08-17	Enterobacter hormaechei		EH9642024BG					GCF_052073395.1-RS_2025_08_17	Complete Genome	2025-08-17	JBQHIM01	3	Enterobacter hormaechei
+GCF_030732205.1	ASM3073220v1	2025-08-14	Enterobacter hormaechei		RSY19					GCF_030732205.1-RS_2025_08_14	Complete Genome	2023-08-15		2	Enterobacter hormaechei
+GCF_030717405.1	ASM3071740v1	2025-08-11	Enterobacter hormaechei		MRSN791417					GCF_030717405.1-RS_2025_08_11	Complete Genome	2023-08-12		9	Enterobacter hormaechei
+GCF_051799885.1	ASM5179988v1	2025-08-05	Enterobacter hormaechei		ST4					GCF_051799885.1-RS_2025_08_05	Complete Genome	2025-08-06		1	Enterobacter hormaechei
+GCF_051617875.1	ASM5161787v1	2025-07-31	Enterobacter hormaechei		CPO413					GCF_051617875.1-RS_2025_07_31	Complete Genome	2025-08-01		4	Enterobacter hormaechei
+GCF_051560505.1	ASM5156050v1	2025-07-30	Enterobacter hormaechei		CPO025					GCF_051560505.1-RS_2025_07_30	Complete Genome	2025-07-31		3	Enterobacter hormaechei
+GCF_051561185.1	ASM5156118v1	2025-07-30	Enterobacter hormaechei		CPO278					GCF_051561185.1-RS_2025_07_30	Complete Genome	2025-07-31		2	Enterobacter hormaechei
+GCF_051549645.1	ASM5154964v1	2025-07-30	Enterobacter hormaechei		EN2209347					GCF_051549645.1-RS_2025_07_30	Complete Genome	2025-07-31		4	Enterobacter hormaechei
+GCF_030486465.1	ASM3048646v1	2025-07-16	Enterobacter hormaechei subsp. xiangfangensis		Eh8322_LBHALD					GCF_030486465.1-RS_2025_07_16	Complete Genome	2023-07-16		3	Enterobacter hormaechei
+GCF_051307155.1	ASM5130715v1	2025-07-14	Enterobacter hormaechei		APO23					GCF_051307155.1-RS_2025_07_14	Complete Genome	2025-07-15		2	Enterobacter hormaechei
+GCF_030413825.1	ASM3041382v1	2025-07-11	Enterobacter hormaechei		Eh202_LBHALD					GCF_030413825.1-RS_2025_07_11	Complete Genome	2023-07-10		2	Enterobacter hormaechei
+GCF_051131905.1	ASM5113190v1	2025-06-29	Enterobacter hormaechei		EH60					GCF_051131905.1-RS_2025_06_29	Complete Genome	2025-06-29		8	Enterobacter hormaechei
+GCF_051093635.1	ASM5109363v1	2025-06-27	Enterobacter hormaechei		NY14259					GCF_051093635.1-RS_2025_06_27	Complete Genome	2025-06-27		5	Enterobacter hormaechei
+GCF_051092895.1	ASM5109289v1	2025-06-27	Enterobacter hormaechei		NY14255					GCF_051092895.1-RS_2025_06_27	Complete Genome	2025-06-27		9	Enterobacter hormaechei
+GCF_051092825.1	ASM5109282v1	2025-06-27	Enterobacter hormaechei subsp. xiangfangensis		NY14253					GCF_051092825.1-RS_2025_06_27	Complete Genome	2025-06-27		6	Enterobacter hormaechei
+GCF_051093565.1	ASM5109356v1	2025-06-27	Enterobacter hormaechei subsp. xiangfangensis		NY14256					GCF_051093565.1-RS_2025_06_27	Complete Genome	2025-06-27		5	Enterobacter hormaechei
+GCF_051092005.1	ASM5109200v1	2025-06-27	Enterobacter hormaechei subsp. xiangfangensis		NY14244					GCF_051092005.1-RS_2025_06_27	Complete Genome	2025-06-27		6	Enterobacter hormaechei
+GCF_051092075.1	ASM5109207v1	2025-06-27	Enterobacter hormaechei subsp. xiangfangensis		NY14250					GCF_051092075.1-RS_2025_06_27	Complete Genome	2025-06-27		5	Enterobacter hormaechei
+GCF_051091335.1	ASM5109133v1	2025-06-26	Enterobacter hormaechei		NY14116					GCF_051091335.1-RS_2025_06_26	Complete Genome	2025-06-27		5	Enterobacter hormaechei
+GCF_051089675.1	ASM5108967v1	2025-06-26	Enterobacter hormaechei		NY5732					GCF_051089675.1-RS_2025_06_26	Complete Genome	2025-06-27		4	Enterobacter hormaechei
+GCF_051090075.1	ASM5109007v1	2025-06-26	Enterobacter hormaechei		NY5808					GCF_051090075.1-RS_2025_06_26	Complete Genome	2025-06-27		3	Enterobacter hormaechei
+GCF_051090735.1	ASM5109073v1	2025-06-26	Enterobacter hormaechei subsp. xiangfangensis		NY5821					GCF_051090735.1-RS_2025_06_26	Complete Genome	2025-06-27		3	Enterobacter hormaechei
+GCF_051091715.1	ASM5109171v1	2025-06-26	Enterobacter hormaechei subsp. xiangfangensis		NY14234					GCF_051091715.1-RS_2025_06_26	Complete Genome	2025-06-27		4	Enterobacter hormaechei
+GCF_051089665.1	ASM5108966v1	2025-06-26	Enterobacter hormaechei subsp. xiangfangensis		NY5744					GCF_051089665.1-RS_2025_06_26	Complete Genome	2025-06-27		3	Enterobacter hormaechei
+GCF_051091755.1	ASM5109175v1	2025-06-26	Enterobacter hormaechei subsp. xiangfangensis		NY14237					GCF_051091755.1-RS_2025_06_26	Complete Genome	2025-06-27		6	Enterobacter hormaechei
+GCF_051090725.1	ASM5109072v1	2025-06-26	Enterobacter hormaechei subsp. xiangfangensis		NY5818					GCF_051090725.1-RS_2025_06_26	Complete Genome	2025-06-27		6	Enterobacter hormaechei
+GCF_038627025.1	ASM3862702v2	2025-06-23	Enterobacter hormaechei		2024CK-00477					GCF_038627025.1-RS_2025_06_23	Complete Genome	2024-06-12		3	Enterobacter hormaechei
+GCF_038627095.1	ASM3862709v2	2025-06-23	Enterobacter hormaechei		2024CK-00534					GCF_038627095.1-RS_2025_06_23	Complete Genome	2024-06-12		3	Enterobacter hormaechei
+GCF_038627045.1	ASM3862704v2	2025-06-23	Enterobacter hormaechei		2024CK-00476					GCF_038627045.1-RS_2025_06_23	Complete Genome	2024-06-12		3	Enterobacter hormaechei
+GCF_038418305.1	ASM3841830v2	2025-06-23	Enterobacter hormaechei		2024CK-00459					GCF_038418305.1-RS_2025_06_23	Complete Genome	2024-06-12		6	Enterobacter hormaechei
+GCF_030324195.1	ASM3032419v1	2025-06-22	Enterobacter hormaechei		EHX_PAT_001					GCF_030324195.1-RS_2025_06_22	Complete Genome	2023-06-22		4	Enterobacter hormaechei
+GCF_023734835.1	ASM2373483v1	2025-06-20	Enterobacter hormaechei		FUJ80003					GCF_023734835.1-RS_2025_06_20	Complete Genome	2022-06-05		2	Enterobacter hormaechei
+GCF_050883155.1	ASM5088315v1	2025-06-11	Enterobacter hormaechei		NY3181					GCF_050883155.1-RS_2025_06_11	Complete Genome	2025-06-12		6	Enterobacter hormaechei
+GCF_050883685.1	ASM5088368v1	2025-06-11	Enterobacter hormaechei		NY3627					GCF_050883685.1-RS_2025_06_11	Complete Genome	2025-06-12		3	Enterobacter hormaechei
+GCF_050871255.1	ASM5087125v1	2025-06-11	Enterobacter hormaechei		NY2616					GCF_050871255.1-RS_2025_06_11	Complete Genome	2025-06-12		3	Enterobacter hormaechei
+GCF_050884245.1	ASM5088424v1	2025-06-11	Enterobacter hormaechei		NY5292					GCF_050884245.1-RS_2025_06_11	Complete Genome	2025-06-12		3	Enterobacter hormaechei
+GCF_050871265.1	ASM5087126v1	2025-06-11	Enterobacter hormaechei		NY2861					GCF_050871265.1-RS_2025_06_11	Complete Genome	2025-06-12		4	Enterobacter hormaechei
+GCF_050871225.1	ASM5087122v1	2025-06-11	Enterobacter hormaechei		NY1016					GCF_050871225.1-RS_2025_06_11	Complete Genome	2025-06-12		4	Enterobacter hormaechei
+GCF_050871245.1	ASM5087124v1	2025-06-11	Enterobacter hormaechei subsp. xiangfangensis		NY1526					GCF_050871245.1-RS_2025_06_11	Complete Genome	2025-06-12		5	Enterobacter hormaechei
+GCF_050871235.1	ASM5087123v1	2025-06-11	Enterobacter hormaechei subsp. xiangfangensis		NY1316					GCF_050871235.1-RS_2025_06_11	Complete Genome	2025-06-12		4	Enterobacter hormaechei
+GCF_050883545.1	ASM5088354v1	2025-06-11	Enterobacter hormaechei subsp. xiangfangensis		NY3231					GCF_050883545.1-RS_2025_06_11	Complete Genome	2025-06-12		3	Enterobacter hormaechei
+GCF_050883695.1	ASM5088369v1	2025-06-11	Enterobacter hormaechei subsp. xiangfangensis		NY5291					GCF_050883695.1-RS_2025_06_11	Complete Genome	2025-06-12		6	Enterobacter hormaechei
+GCF_050871215.1	ASM5087121v1	2025-06-11	Enterobacter hormaechei subsp. xiangfangensis		NY14233					GCF_050871215.1-RS_2025_06_11	Complete Genome	2025-06-12		2	Enterobacter hormaechei
+GCF_038069265.1	ASM3806926v2	2025-06-09	Enterobacter hormaechei		2024CK-00374					GCF_038069265.1-RS_2025_06_09	Complete Genome	2024-05-31		4	Enterobacter hormaechei
+GCF_038626985.1	ASM3862698v2	2025-06-09	Enterobacter hormaechei		2024CK-00479					GCF_038626985.1-RS_2025_06_09	Complete Genome	2024-05-31		4	Enterobacter hormaechei
+GCF_008370065.2	ASM837006v2	2025-06-05	Enterobacter hormaechei		E11					GCF_008370065.2-RS_2025_06_05	Complete Genome	2024-06-06		2	Enterobacter hormaechei
+GCF_025398395.2	ASM2539839v2	2025-06-02	Enterobacter hormaechei		2020CK-00376					GCF_025398395.2-RS_2025_06_02	Complete Genome	2023-06-02		3	Enterobacter hormaechei
+GCF_039906065.1	ASM3990606v1	2025-05-30	Enterobacter hormaechei		YY1					GCF_039906065.1-RS_2025_05_30	Complete Genome	2024-05-31		2	Enterobacter hormaechei
+GCF_001618345.2	ASM161834v2	2025-08-31	Escherichia coli		Ecol_745					GCF_001618345.2-RS_2025_08_31	Complete Genome	2016-07-12		2	Escherichia coli
+GCF_034643695.1	ASM3464369v1	2025-08-31	Escherichia coli		KE47					GCF_034643695.1-RS_2025_08_31	Complete Genome	2023-12-26		2	Escherichia coli
+GCF_003122105.1	ASM312210v1	2025-08-31	Escherichia coli		ECCRA-119					GCF_003122105.1-RS_2025_08_31	Complete Genome	2018-05-13		4	Escherichia coli
+GCF_030717665.1	ASM3071766v1	2025-08-27	Escherichia coli		QML220601					GCF_030717665.1-RS_2025_08_27	Complete Genome	2023-08-13		2	Escherichia coli
+GCF_024499095.1	ASM2449909v1	2025-08-27	Escherichia coli		CPww7					GCF_024499095.1-RS_2025_08_27	Complete Genome	2022-08-01		6	Escherichia coli
+GCF_024499265.1	ASM2449926v1	2025-08-27	Escherichia coli		LP50-1					GCF_024499265.1-RS_2025_08_27	Complete Genome	2022-08-01		8	Escherichia coli
+GCF_024496025.1	ASM2449602v1	2025-08-27	Escherichia coli		035152					GCF_024496025.1-RS_2025_08_27	Complete Genome	2022-07-31		2	Escherichia coli
+GCF_024499115.1	ASM2449911v1	2025-08-27	Escherichia coli		CP52E					GCF_024499115.1-RS_2025_08_27	Complete Genome	2022-08-01		6	Escherichia coli
+GCF_024499305.1	ASM2449930v1	2025-08-27	Escherichia coli		JSMCR1					GCF_024499305.1-RS_2025_08_27	Complete Genome	2022-08-01		6	Escherichia coli
+GCF_024499155.1	ASM2449915v1	2025-08-27	Escherichia coli		CPF6					GCF_024499155.1-RS_2025_08_27	Complete Genome	2022-08-01		11	Escherichia coli
+GCF_024499175.1	ASM2449917v1	2025-08-27	Escherichia coli		CPE35					GCF_024499175.1-RS_2025_08_27	Complete Genome	2022-08-01		9	Escherichia coli
+GCF_030717825.1	ASM3071782v1	2025-08-27	Escherichia coli		QML220614					GCF_030717825.1-RS_2025_08_27	Complete Genome	2023-08-13		2	Escherichia coli
+GCF_001679985.1	ASM167998v1	2025-08-25	Escherichia coli		210205630					GCF_001679985.1-RS_2025_08_25	Complete Genome	2016-07-06		6	Escherichia coli
+GCF_024331495.2	ASM2433149v2	2025-08-25	Escherichia coli		MLI106K2					GCF_024331495.2-RS_2025_08_25	Complete Genome	2023-02-08		4	Escherichia coli
+GCF_024331345.2	ASM2433134v2	2025-08-25	Escherichia coli		MLI104K2					GCF_024331345.2-RS_2025_08_25	Complete Genome	2023-02-08		2	Escherichia coli
+GCF_023370135.1	ASM2337013v1	2025-08-25	Escherichia coli		2-1					GCF_023370135.1-RS_2025_08_25	Complete Genome	2022-05-15		5	Escherichia coli
+GCF_028551195.1	ASM2855119v1	2025-08-25	Escherichia coli		CUVM3					GCF_028551195.1-RS_2025_08_25	Complete Genome	2023-02-08		6	Escherichia coli
+GCF_002077195.1	ASM207719v1	2025-08-25	Escherichia coli		FAM21845					GCF_002077195.1-RS_2025_08_25	Complete Genome	2017-04-03		6	Escherichia coli
+GCF_018323825.1	ASM1832382v1	2025-08-25	Escherichia coli		Ec387					GCF_018323825.1-RS_2025_08_25	Complete Genome	2021-04-20		3	Escherichia coli
+GCF_019211745.1	ASM1921174v1	2025-08-23	Escherichia coli		Sx181-0-1					GCF_019211745.1-RS_2025_08_23	Complete Genome	2021-07-14		2	Escherichia coli
+GCF_030708015.1	ASM3070801v1	2025-08-22	Escherichia coli		R4					GCF_030708015.1-RS_2025_08_22	Complete Genome	2023-08-10		2	Escherichia coli
+GCF_030707995.1	ASM3070799v1	2025-08-22	Escherichia coli		R6					GCF_030707995.1-RS_2025_08_22	Complete Genome	2023-08-10		4	Escherichia coli
+GCF_030717525.1	ASM3071752v1	2025-08-22	Escherichia coli		GON1437					GCF_030717525.1-RS_2025_08_22	Complete Genome	2023-08-12		2	Escherichia coli
+GCF_030717505.1	ASM3071750v1	2025-08-22	Escherichia coli		JCH8249					GCF_030717505.1-RS_2025_08_22	Complete Genome	2023-08-12		2	Escherichia coli
+GCF_030717485.1	ASM3071748v1	2025-08-22	Escherichia coli		JCH767					GCF_030717485.1-RS_2025_08_22	Complete Genome	2023-08-12		1	Escherichia coli
+GCF_030708055.1	ASM3070805v1	2025-08-22	Escherichia coli		R2					GCF_030708055.1-RS_2025_08_22	Complete Genome	2023-08-10		4	Escherichia coli
+GCF_030708375.1	ASM3070837v1	2025-08-22	Escherichia coli		DJH_137urine					GCF_030708375.1-RS_2025_08_22	Complete Genome	2023-08-10		4	Escherichia coli
+GCF_030708255.1	ASM3070825v1	2025-08-21	Escherichia coli		S6					GCF_030708255.1-RS_2025_08_21	Complete Genome	2023-08-10		3	Escherichia coli
+GCF_030708155.1	ASM3070815v1	2025-08-21	Escherichia coli		S13					GCF_030708155.1-RS_2025_08_21	Complete Genome	2023-08-10		3	Escherichia coli
+GCF_030708175.1	ASM3070817v1	2025-08-21	Escherichia coli		S12					GCF_030708175.1-RS_2025_08_21	Complete Genome	2023-08-10		2	Escherichia coli
+GCF_030708135.1	ASM3070813v1	2025-08-21	Escherichia coli		S14					GCF_030708135.1-RS_2025_08_21	Complete Genome	2023-08-10		3	Escherichia coli
+GCF_030708275.1	ASM3070827v1	2025-08-21	Escherichia coli		S5					GCF_030708275.1-RS_2025_08_21	Complete Genome	2023-08-10		3	Escherichia coli
+GCF_030708235.1	ASM3070823v1	2025-08-21	Escherichia coli		S7					GCF_030708235.1-RS_2025_08_21	Complete Genome	2023-08-10		6	Escherichia coli
+GCF_030708215.1	ASM3070821v1	2025-08-21	Escherichia coli		S8					GCF_030708215.1-RS_2025_08_21	Complete Genome	2023-08-10		2	Escherichia coli
+GCF_030708535.1	ASM3070853v1	2025-08-21	Escherichia coli		R14					GCF_030708535.1-RS_2025_08_21	Complete Genome	2023-08-10		4	Escherichia coli
+GCF_030707875.1	ASM3070787v1	2025-08-21	Escherichia coli		R12					GCF_030707875.1-RS_2025_08_21	Complete Genome	2023-08-10		2	Escherichia coli
+GCF_030708295.1	ASM3070829v1	2025-08-21	Escherichia coli		S4					GCF_030708295.1-RS_2025_08_21	Complete Genome	2023-08-10		2	Escherichia coli
+GCF_030707915.1	ASM3070791v1	2025-08-21	Escherichia coli		R10					GCF_030707915.1-RS_2025_08_21	Complete Genome	2023-08-10		2	Escherichia coli
+GCF_030708315.1	ASM3070831v1	2025-08-21	Escherichia coli		S3					GCF_030708315.1-RS_2025_08_21	Complete Genome	2023-08-10		1	Escherichia coli
+GCF_030707855.1	ASM3070785v1	2025-08-21	Escherichia coli		R13					GCF_030707855.1-RS_2025_08_21	Complete Genome	2023-08-10		2	Escherichia coli
+GCF_030707895.1	ASM3070789v1	2025-08-21	Escherichia coli		R11					GCF_030707895.1-RS_2025_08_21	Complete Genome	2023-08-10		7	Escherichia coli
+GCF_030707975.1	ASM3070797v1	2025-08-21	Escherichia coli		R7					GCF_030707975.1-RS_2025_08_21	Complete Genome	2023-08-10		4	Escherichia coli
+GCF_030708335.1	ASM3070833v1	2025-08-21	Escherichia coli		S2					GCF_030708335.1-RS_2025_08_21	Complete Genome	2023-08-10		4	Escherichia coli
+GCF_030707935.1	ASM3070793v1	2025-08-21	Escherichia coli		R9					GCF_030707935.1-RS_2025_08_21	Complete Genome	2023-08-10		8	Escherichia coli
+GCF_030707955.1	ASM3070795v1	2025-08-21	Escherichia coli		R8					GCF_030707955.1-RS_2025_08_21	Complete Genome	2023-08-10		2	Escherichia coli
+GCF_030708195.1	ASM3070819v1	2025-08-21	Escherichia coli		S9					GCF_030708195.1-RS_2025_08_21	Complete Genome	2023-08-10		4	Escherichia coli
+GCF_030708395.1	ASM3070839v1	2025-08-21	Escherichia coli		DJH_183sputum					GCF_030708395.1-RS_2025_08_21	Complete Genome	2023-08-10		3	Escherichia coli
+GCF_024467035.1	ASM2446703v1	2025-08-21	Escherichia coli		M171-1					GCF_024467035.1-RS_2025_08_21	Complete Genome	2022-07-28		3	Escherichia coli
+GCF_052122755.1	ASM5212275v1	2025-08-19	Escherichia coli		2020N21-110-15					GCF_052122755.1-RS_2025_08_19	Complete Genome	2025-08-19	JBQJRS01	21	Escherichia coli
+GCF_052122845.1	ASM5212284v1	2025-08-19	Escherichia coli		2020N21-110-24					GCF_052122845.1-RS_2025_08_19	Complete Genome	2025-08-19	JBQJRT01	15	Escherichia coli
+GCF_024496165.1	ASM2449616v1	2025-08-27	Klebsiella pneumoniae		hvKP340					GCF_024496165.1-RS_2025_08_27	Complete Genome	2022-07-31		8	Klebsiella pneumoniae
+GCF_030717705.1	ASM3071770v1	2025-08-27	Klebsiella pneumoniae		CRKP-B8					GCF_030717705.1-RS_2025_08_27	Complete Genome	2023-08-13		6	Klebsiella pneumoniae
+GCF_024496125.1	ASM2449612v1	2025-08-27	Klebsiella pneumoniae		hvKP323					GCF_024496125.1-RS_2025_08_27	Complete Genome	2022-07-31		6	Klebsiella pneumoniae
+GCF_024496185.1	ASM2449618v1	2025-08-27	Klebsiella pneumoniae		hvKP841					GCF_024496185.1-RS_2025_08_27	Complete Genome	2022-07-31		6	Klebsiella pneumoniae
+GCF_030717725.1	ASM3071772v1	2025-08-27	Klebsiella pneumoniae		CRKP-F1					GCF_030717725.1-RS_2025_08_27	Complete Genome	2023-08-13		6	Klebsiella pneumoniae
+GCF_024496145.1	ASM2449614v1	2025-08-27	Klebsiella pneumoniae		hvKP319					GCF_024496145.1-RS_2025_08_27	Complete Genome	2022-07-31		6	Klebsiella pneumoniae
+GCF_024498895.1	ASM2449889v1	2025-08-27	Klebsiella pneumoniae		K-28					GCF_024498895.1-RS_2025_08_27	Complete Genome	2022-08-01		2	Klebsiella pneumoniae
+GCF_024505665.1	ASM2450566v1	2025-08-27	Klebsiella pneumoniae		KPA1					GCF_024505665.1-RS_2025_08_27	Complete Genome	2022-08-02		7	Klebsiella pneumoniae
+GCF_024496205.1	ASM2449620v1	2025-08-27	Klebsiella pneumoniae		hvKP859					GCF_024496205.1-RS_2025_08_27	Complete Genome	2022-07-31		6	Klebsiella pneumoniae
+GCF_024496265.1	ASM2449626v1	2025-08-26	Klebsiella pneumoniae		150040X1B1					GCF_024496265.1-RS_2025_08_26	Complete Genome	2022-07-31		5	Klebsiella pneumoniae
+GCF_024498655.1	ASM2449865v1	2025-08-26	Klebsiella pneumoniae		KPK3					GCF_024498655.1-RS_2025_08_26	Complete Genome	2022-08-01		4	Klebsiella pneumoniae
+GCF_021166215.1	ASM2116621v1	2025-08-25	Klebsiella pneumoniae		53370					GCF_021166215.1-RS_2025_08_25	Complete Genome	2021-12-12		3	Klebsiella pneumoniae
+GCF_021137875.1	ASM2113787v1	2025-08-25	Klebsiella pneumoniae		400195-2-18					GCF_021137875.1-RS_2025_08_25	Complete Genome	2021-12-09		4	Klebsiella pneumoniae
+GCF_036541145.1	ASM3654114v1	2025-08-25	Klebsiella pneumoniae		CRE-44					GCF_036541145.1-RS_2025_08_25	Complete Genome	2024-02-10		2	Klebsiella pneumoniae
+GCF_002852675.2	ASM285267v2	2025-08-25	Klebsiella pneumoniae subsp. pneumoniae		WCHKP020130					GCF_002852675.2-RS_2025_08_25	Complete Genome	2023-02-08		5	Klebsiella pneumoniae
+GCF_030704345.1	ASM3070434v1	2025-08-21	Klebsiella pneumoniae		KPN5752					GCF_030704345.1-RS_2025_08_21	Complete Genome	2023-08-09		7	Klebsiella pneumoniae
+GCF_028364475.1	ASM2836447v3	2025-08-21	Klebsiella pneumoniae		2023CK-00047					GCF_028364475.1-RS_2025_08_21	Complete Genome	2023-08-05		5	Klebsiella pneumoniae
+GCF_028626845.1	ASM2862684v3	2025-08-21	Klebsiella pneumoniae		2023CK-00111					GCF_028626845.1-RS_2025_08_21	Complete Genome	2023-08-09		4	Klebsiella pneumoniae
+GCF_024396875.1	ASM2439687v1	2025-08-20	Klebsiella pneumoniae subsp. pneumoniae		KP82					GCF_024396875.1-RS_2025_08_20	Complete Genome	2022-07-25		8	Klebsiella pneumoniae
+GCF_024397375.1	ASM2439737v1	2025-08-19	Klebsiella pneumoniae		FZKP4523					GCF_024397375.1-RS_2025_08_19	Complete Genome	2022-07-25		4	Klebsiella pneumoniae
+GCF_030685635.1	ASM3068563v1	2025-08-19	Klebsiella pneumoniae		GDFK0508					GCF_030685635.1-RS_2025_08_19	Complete Genome	2023-08-08		1	Klebsiella pneumoniae
+GCF_030685615.1	ASM3068561v1	2025-08-19	Klebsiella pneumoniae		GDFK0181					GCF_030685615.1-RS_2025_08_19	Complete Genome	2023-08-08		1	Klebsiella pneumoniae
+GCF_030644565.1	ASM3064456v1	2025-08-19	Klebsiella pneumoniae		Kp_2016-319					GCF_030644565.1-RS_2025_08_19	Complete Genome	2023-08-04		2	Klebsiella pneumoniae
+GCF_030644545.1	ASM3064454v1	2025-08-19	Klebsiella pneumoniae		Kp_2016-1198					GCF_030644545.1-RS_2025_08_19	Complete Genome	2023-08-04		2	Klebsiella pneumoniae
+GCF_030644625.1	ASM3064462v1	2025-08-19	Klebsiella pneumoniae		Kp_2019-1764					GCF_030644625.1-RS_2025_08_19	Complete Genome	2023-08-04		2	Klebsiella pneumoniae
+GCF_024398905.1	ASM2439890v1	2025-08-19	Klebsiella pneumoniae		MEI009					GCF_024398905.1-RS_2025_08_19	Complete Genome	2022-07-25		3	Klebsiella pneumoniae
+GCF_024396855.1	ASM2439685v1	2025-08-19	Klebsiella pneumoniae subsp. pneumoniae		KP21					GCF_024396855.1-RS_2025_08_19	Complete Genome	2022-07-25		4	Klebsiella pneumoniae
+GCF_024397235.1	ASM2439723v1	2025-08-19	Klebsiella pneumoniae subsp. pneumoniae		KP29					GCF_024397235.1-RS_2025_08_19	Complete Genome	2022-07-25		5	Klebsiella pneumoniae
+GCF_024397075.1	ASM2439707v1	2025-08-19	Klebsiella pneumoniae subsp. pneumoniae		KP65					GCF_024397075.1-RS_2025_08_19	Complete Genome	2022-07-25		4	Klebsiella pneumoniae
+GCF_002300675.1	ASM230067v2	2025-08-18	Klebsiella pneumoniae		VBA2172					GCF_002300675.1-RS_2025_08_18	Complete Genome	2019-02-28		7	Klebsiella pneumoniae
+GCF_946966015.1	ARGID_33072	2025-08-18	Klebsiella pneumoniae					65326252-51f1-11ec-980a-fa163eea3084		GCF_946966015.1-RS_2025_08_18	Complete Genome	2022-09-25		3	Klebsiella pneumoniae
+GCF_001455995.1	MS6671.v1	2025-08-18	Klebsiella pneumoniae		MS6671					GCF_001455995.1-RS_2025_08_18	Complete Genome	2015-12-01		7	Klebsiella pneumoniae
+GCF_030644605.1	ASM3064460v1	2025-08-18	Klebsiella pneumoniae		Kp_2016-1200					GCF_030644605.1-RS_2025_08_18	Complete Genome	2023-08-04		3	Klebsiella pneumoniae
+GCF_030644585.1	ASM3064458v1	2025-08-18	Klebsiella pneumoniae		Kp_2019-1792					GCF_030644585.1-RS_2025_08_18	Complete Genome	2023-08-04		3	Klebsiella pneumoniae
+GCF_003571705.1	ASM357170v1	2025-08-18	Klebsiella pneumoniae		AR_0109					GCF_003571705.1-RS_2025_08_18	Complete Genome	2018-09-16		7	Klebsiella pneumoniae
+GCF_004010995.1	ASM401099v1	2025-08-18	Klebsiella pneumoniae		08EU827					GCF_004010995.1-RS_2025_08_18	Complete Genome	2019-01-10		5	Klebsiella pneumoniae
+GCF_030582295.1	ASM3058229v1	2025-08-18	Klebsiella pneumoniae		AZJ065					GCF_030582295.1-RS_2025_08_18	Complete Genome	2023-08-02		3	Klebsiella pneumoniae
+GCF_024637895.1	ASM2463789v1	2025-08-18	Klebsiella pneumoniae		SHX180					GCF_024637895.1-RS_2025_08_18	Complete Genome	2022-08-12		3	Klebsiella pneumoniae
+GCF_024637995.1	ASM2463799v1	2025-08-18	Klebsiella pneumoniae		KPTCM					GCF_024637995.1-RS_2025_08_18	Complete Genome	2022-08-12		10	Klebsiella pneumoniae
+GCF_030553015.1	ASM3055301v1	2025-08-17	Klebsiella pneumoniae		SP1030					GCF_030553015.1-RS_2025_08_17	Complete Genome	2023-07-30		4	Klebsiella pneumoniae
+GCF_024346655.1	ASM2434665v1	2025-08-17	Klebsiella pneumoniae		XHKP6					GCF_024346655.1-RS_2025_08_17	Complete Genome	2022-07-20		4	Klebsiella pneumoniae
+GCF_052068375.1	ASM5206837v1	2025-08-17	Klebsiella pneumoniae		KP7452024BG					GCF_052068375.1-RS_2025_08_17	Complete Genome	2025-08-17	JBQHIX01	4	Klebsiella pneumoniae
+GCF_030552995.1	ASM3055299v1	2025-08-17	Klebsiella pneumoniae		F1025					GCF_030552995.1-RS_2025_08_17	Complete Genome	2023-07-30		7	Klebsiella pneumoniae
+GCF_052068255.1	ASM5206825v1	2025-08-17	Klebsiella pneumoniae		KP6432024BG					GCF_052068255.1-RS_2025_08_17	Complete Genome	2025-08-17	JBQHIW01	3	Klebsiella pneumoniae
+GCF_024346695.1	ASM2434669v1	2025-08-17	Klebsiella pneumoniae		XHKP53					GCF_024346695.1-RS_2025_08_17	Complete Genome	2022-07-20		4	Klebsiella pneumoniae
+GCF_052063115.1	ASM5206311v1	2025-08-17	Klebsiella pneumoniae		HN148					GCF_052063115.1-RS_2025_08_16	Complete Genome	2025-08-17		3	Klebsiella pneumoniae
+GCF_024346895.1	ASM2434689v1	2025-08-16	Klebsiella pneumoniae		XHKPN391					GCF_024346895.1-RS_2025_08_16	Complete Genome	2022-07-20		4	Klebsiella pneumoniae
+GCF_024346735.1	ASM2434673v1	2025-08-16	Klebsiella pneumoniae		XHKP75					GCF_024346735.1-RS_2025_08_16	Complete Genome	2022-07-20		5	Klebsiella pneumoniae
+GCF_024346815.1	ASM2434681v1	2025-08-16	Klebsiella pneumoniae		XHKP502					GCF_024346815.1-RS_2025_08_16	Complete Genome	2022-07-20		6	Klebsiella pneumoniae
+GCF_024346775.1	ASM2434677v1	2025-08-16	Klebsiella pneumoniae		XHKP309					GCF_024346775.1-RS_2025_08_16	Complete Genome	2022-07-20		4	Klebsiella pneumoniae
+GCF_024507955.1	ASM2450795v1	2025-08-27	Pseudomonas aeruginosa		ATCC 27853					GCF_024507955.1-RS_2025_08_27	Complete Genome	2022-08-03		1	Pseudomonas aeruginosa
+GCF_022570415.1	ASM2257041v1	2025-08-25	Pseudomonas aeruginosa		H05					GCF_022570415.1-RS_2025_08_25	Complete Genome	2022-03-15		2	Pseudomonas aeruginosa
+GCF_001632245.1	ASM163224v1	2025-08-25	Pseudomonas aeruginosa		BAMCPA07-48					GCF_001632245.1-RS_2025_08_25	Complete Genome	2016-04-26		1	Pseudomonas aeruginosa
+GCF_022570435.1	ASM2257043v1	2025-08-25	Pseudomonas aeruginosa		H04					GCF_022570435.1-RS_2025_08_25	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_022570455.1	ASM2257045v1	2025-08-25	Pseudomonas aeruginosa		H03					GCF_022570455.1-RS_2025_08_25	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_022570115.1	ASM2257011v1	2025-08-25	Pseudomonas aeruginosa		H08					GCF_022570115.1-RS_2025_08_25	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_022570235.1	ASM2257023v1	2025-08-25	Pseudomonas aeruginosa		H07					GCF_022570235.1-RS_2025_08_25	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_001516105.1	ASM151610v1	2025-08-25	Pseudomonas aeruginosa		T63266					GCF_001516105.1-RS_2025_08_25	Complete Genome	2016-01-15		1	Pseudomonas aeruginosa
+GCF_001606045.1	ASM160604v1	2025-08-25	Pseudomonas aeruginosa		N17-1					GCF_001606045.1-RS_2025_08_25	Complete Genome	2016-04-04		1	Pseudomonas aeruginosa
+GCF_000026645.1	ASM2664v1	2025-08-25	Pseudomonas aeruginosa LESB58		LESB58					GCF_000026645.1-RS_2025_08_25	Complete Genome	2008-12-24		1	Pseudomonas aeruginosa
+GCF_000496455.2	ASM49645v2	2025-08-25	Pseudomonas aeruginosa DHS01		DH01					GCF_000496455.2-RS_2025_08_25	Complete Genome	2016-01-25		1	Pseudomonas aeruginosa
+GCF_052171915.1	ASM5217191v1	2025-08-21	Pseudomonas aeruginosa		CRPA-9					GCF_052171915.1-RS_2025_08_21	Complete Genome	2025-08-21	JBQJKB01	2	Pseudomonas aeruginosa
+GCF_013376775.1	ASM1337677v1	2025-08-21	Pseudomonas aeruginosa		CDN129					GCF_013376775.1-RS_2025_08_21	Complete Genome	2020-06-30		1	Pseudomonas aeruginosa
+GCF_028366415.1	ASM2836641v3	2025-08-19	Pseudomonas aeruginosa		2023CK-00048					GCF_028366415.1-RS_2025_08_19	Complete Genome	2023-08-06		1	Pseudomonas aeruginosa
+GCF_022569975.1	ASM2256997v1	2025-08-19	Pseudomonas aeruginosa		H10					GCF_022569975.1-RS_2025_08_19	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_022569995.1	ASM2256999v1	2025-08-19	Pseudomonas aeruginosa		H09					GCF_022569995.1-RS_2025_08_19	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_022533445.1	ASM2253344v1	2025-08-18	Pseudomonas aeruginosa		ISS SRV-K					GCF_022533445.1-RS_2025_08_18	Complete Genome	2022-03-09		2	Pseudomonas aeruginosa
+GCF_030563585.1	ASM3056358v1	2025-08-18	Pseudomonas aeruginosa		AU10241			AU10241_L13_Resistant		GCF_030563585.1-RS_2025_08_18	Complete Genome	2023-08-01		1	Pseudomonas aeruginosa
+GCF_030564045.1	ASM3056404v1	2025-08-18	Pseudomonas aeruginosa		AU10241					GCF_030564045.1-RS_2025_08_18	Complete Genome	2023-08-01		1	Pseudomonas aeruginosa
+GCF_030563765.1	ASM3056376v1	2025-08-18	Pseudomonas aeruginosa		AU10241			AU10241_L13_Control		GCF_030563765.1-RS_2025_08_18	Complete Genome	2023-08-01		1	Pseudomonas aeruginosa
+GCF_052072165.1	ASM5207216v1	2025-08-17	Pseudomonas aeruginosa		PAMS					GCF_052072165.1-RS_2025_08_17	Complete Genome	2025-08-17	JBQGPN01	2	Pseudomonas aeruginosa
+GCF_051989275.1	ASM5198927v1	2025-08-14	Pseudomonas aeruginosa		HNIBRBA1976					GCF_051989275.1-RS_2025_08_14	Complete Genome	2025-08-15		1	Pseudomonas aeruginosa
+GCF_051988505.1	ASM5198850v1	2025-08-14	Pseudomonas aeruginosa		HNIBRBA3474					GCF_051988505.1-RS_2025_08_14	Complete Genome	2025-08-15		1	Pseudomonas aeruginosa
+GCF_051905005.1	ASM5190500v1	2025-08-11	Pseudomonas aeruginosa		71					GCF_051905005.1-RS_2025_08_11	Complete Genome	2025-08-11		1	Pseudomonas aeruginosa
+GCF_013343415.1	ASM1334341v1	2025-08-11	Pseudomonas aeruginosa		DVT421					GCF_013343415.1-RS_2025_08_11	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_024089395.1	ASM2408939v1	2025-08-11	Pseudomonas aeruginosa		PAO1_Mat-X-1					GCF_024089395.1-RS_2025_08_11	Complete Genome	2022-06-30		1	Pseudomonas aeruginosa
+GCF_022569855.1	ASM2256985v1	2025-08-08	Pseudomonas aeruginosa		H20					GCF_022569855.1-RS_2025_08_08	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_022569915.1	ASM2256991v1	2025-08-07	Pseudomonas aeruginosa		H16					GCF_022569915.1-RS_2025_08_07	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_051853055.1	ASM5185305v1	2025-08-07	Pseudomonas aeruginosa		AUS531					GCF_051853055.1-RS_2025_08_07	Complete Genome	2025-08-08		1	Pseudomonas aeruginosa
+GCF_013343515.1	ASM1334351v1	2025-08-06	Pseudomonas aeruginosa		DVT413					GCF_013343515.1-RS_2025_08_06	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_024300845.1	ASM2430084v1	2025-08-06	Pseudomonas aeruginosa		R20-14					GCF_024300845.1-RS_2025_08_06	Complete Genome	2022-07-18		2	Pseudomonas aeruginosa
+GCF_022569895.1	ASM2256989v1	2025-08-06	Pseudomonas aeruginosa		H17					GCF_022569895.1-RS_2025_08_06	Complete Genome	2022-03-15		1	Pseudomonas aeruginosa
+GCF_002411865.3	ASM241186v3	2025-08-05	Pseudomonas aeruginosa		97					GCF_002411865.3-RS_2025_08_05	Complete Genome	2019-02-06		1	Pseudomonas aeruginosa
+GCF_013347245.1	ASM1334724v1	2025-08-05	Pseudomonas aeruginosa		CDN118					GCF_013347245.1-RS_2025_08_05	Complete Genome	2020-06-16		1	Pseudomonas aeruginosa
+GCF_005305005.1	ASM530500v1	2025-08-05	Pseudomonas aeruginosa		PA298					GCF_005305005.1-RS_2025_08_05	Complete Genome	2019-05-14		2	Pseudomonas aeruginosa
+GCF_013343375.1	ASM1334337v1	2025-08-05	Pseudomonas aeruginosa		DVT425					GCF_013343375.1-RS_2025_08_05	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_013343475.1	ASM1334347v1	2025-08-05	Pseudomonas aeruginosa		DVT779					GCF_013343475.1-RS_2025_08_05	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_028994395.2	ASM2899439v2	2025-08-03	Pseudomonas aeruginosa		PE21					GCF_028994395.2-RS_2025_08_03	Complete Genome	2025-07-22	JARDUV02	2	Pseudomonas aeruginosa
+GCF_003433235.1	ASM343323v1	2025-08-03	Pseudomonas aeruginosa		24Pae112					GCF_003433235.1-RS_2025_08_03	Complete Genome	2018-08-30		1	Pseudomonas aeruginosa
+GCF_024266935.1	ASM2426693v1	2025-08-03	Pseudomonas aeruginosa		PA-2					GCF_024266935.1-RS_2025_08_03	Complete Genome	2022-07-14		2	Pseudomonas aeruginosa
+GCF_024266915.1	ASM2426691v1	2025-08-03	Pseudomonas aeruginosa		PA-1					GCF_024266915.1-RS_2025_08_03	Complete Genome	2022-07-14		2	Pseudomonas aeruginosa
+GCF_013255565.1	ASM1325556v1	2025-08-03	Pseudomonas aeruginosa		PSE6684					GCF_013255565.1-RS_2025_08_03	Complete Genome	2020-06-03		1	Pseudomonas aeruginosa
+GCF_013343335.1	ASM1334333v1	2025-08-03	Pseudomonas aeruginosa		DVT429					GCF_013343335.1-RS_2025_08_03	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_013343395.1	ASM1334339v1	2025-08-03	Pseudomonas aeruginosa		DVT423					GCF_013343395.1-RS_2025_08_03	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_013343575.1	ASM1334357v1	2025-08-03	Pseudomonas aeruginosa		DVT401					GCF_013343575.1-RS_2025_08_03	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_013343315.1	ASM1334331v1	2025-08-03	Pseudomonas aeruginosa		DVT729					GCF_013343315.1-RS_2025_08_03	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_013343495.1	ASM1334349v1	2025-08-03	Pseudomonas aeruginosa		DVT414					GCF_013343495.1-RS_2025_08_03	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_013260445.1	ASM1326044v1	2025-08-03	Pseudomonas aeruginosa		YD001					GCF_013260445.1-RS_2025_08_03	Complete Genome	2020-06-03		1	Pseudomonas aeruginosa
+GCF_024266805.1	ASM2426680v1	2025-08-03	Pseudomonas aeruginosa		F13					GCF_024266805.1-RS_2025_08_03	Complete Genome	2022-07-14		1	Pseudomonas aeruginosa
+GCF_013343355.1	ASM1334335v1	2025-08-03	Pseudomonas aeruginosa		DVT427					GCF_013343355.1-RS_2025_08_03	Complete Genome	2020-06-15		1	Pseudomonas aeruginosa
+GCF_052363745.1	ASM5236374v1	2025-09-01	Staphylococcus aureus		0617SA27					GCF_052363745.1-RS_2025_09_01	Complete Genome	2025-09-01		1	Staphylococcus aureus
+GCF_030717645.1	ASM3071764v1	2025-08-27	Staphylococcus aureus		1.6					GCF_030717645.1-RS_2025_08_27	Complete Genome	2023-08-13		3	Staphylococcus aureus
+GCF_030717565.1	ASM3071756v1	2025-08-27	Staphylococcus aureus		2.4b					GCF_030717565.1-RS_2025_08_27	Complete Genome	2023-08-13		2	Staphylococcus aureus
+GCF_030717625.1	ASM3071762v1	2025-08-27	Staphylococcus aureus		1.9b					GCF_030717625.1-RS_2025_08_27	Complete Genome	2023-08-13		2	Staphylococcus aureus
+GCF_030717585.1	ASM3071758v1	2025-08-27	Staphylococcus aureus		2.3a					GCF_030717585.1-RS_2025_08_27	Complete Genome	2023-08-13		2	Staphylococcus aureus
+GCF_030717545.1	ASM3071754v1	2025-08-27	Staphylococcus aureus		2.4a					GCF_030717545.1-RS_2025_08_27	Complete Genome	2023-08-13		2	Staphylococcus aureus
+GCF_030717605.1	ASM3071760v1	2025-08-27	Staphylococcus aureus		2.1					GCF_030717605.1-RS_2025_08_27	Complete Genome	2023-08-13		3	Staphylococcus aureus
+GCF_030252695.1	ASM3025269v1	2025-08-25	Staphylococcus aureus		CC239-MRSA-III(var.)			Trinidad&Tobago_2020-048_8421A		GCF_030252695.1-RS_2025_08_25	Complete Genome	2023-06-12		1	Staphylococcus aureus
+GCF_001656045.1	ASM165604v1	2025-08-25	Staphylococcus aureus		08-02119					GCF_001656045.1-RS_2025_08_25	Complete Genome	2016-06-03		1	Staphylococcus aureus
+GCF_015732455.1	ASM1573245v1	2025-08-25	Staphylococcus aureus		MSSA01					GCF_015732455.1-RS_2025_08_25	Complete Genome	2020-12-03		1	Staphylococcus aureus
+GCF_002089055.1	ASM208905v1	2025-08-25	Staphylococcus aureus		GD5					GCF_002089055.1-RS_2025_08_25	Complete Genome	2017-04-13		1	Staphylococcus aureus
+GCF_030252775.1	ASM3025277v1	2025-08-25	Staphylococcus aureus		CC8-MSSA (PVL+)			Trinidad&Tobago_2020-042_7641M		GCF_030252775.1-RS_2025_08_25	Complete Genome	2023-06-12		2	Staphylococcus aureus
+GCF_002202075.1	ASM220207v1	2025-08-25	Staphylococcus aureus		Seattle 1945			G477		GCF_002202075.1-RS_2025_08_25	Complete Genome	2017-06-20		2	Staphylococcus aureus
+GCF_001656075.1	ASM165607v1	2025-08-25	Staphylococcus aureus		08-02300					GCF_001656075.1-RS_2025_08_25	Complete Genome	2016-06-03		1	Staphylococcus aureus
+GCF_000284535.1	ASM28453v1	2025-08-25	Staphylococcus aureus subsp. aureus HO 5096 0412		HO 5096 0412					GCF_000284535.1-RS_2025_08_25	Complete Genome	2012-04-23		1	Staphylococcus aureus
+GCF_000253135.1	ASM25313v1	2025-08-25	Staphylococcus aureus subsp. aureus ECT-R 2					ECT-R 2		GCF_000253135.1-RS_2025_08_25	Complete Genome	2010-11-24		3	Staphylococcus aureus
+GCF_024399355.1	ASM2439935v1	2025-08-19	Staphylococcus aureus		Sta2021010					GCF_024399355.1-RS_2025_08_19	Complete Genome	2022-07-25		1	Staphylococcus aureus
+GCF_030644005.1	ASM3064400v1	2025-08-19	Staphylococcus aureus		1.10					GCF_030644005.1-RS_2025_08_19	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030644065.1	ASM3064406v1	2025-08-19	Staphylococcus aureus		1.7					GCF_030644065.1-RS_2025_08_19	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030643945.1	ASM3064394v1	2025-08-19	Staphylococcus aureus		2.5					GCF_030643945.1-RS_2025_08_19	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030644145.1	ASM3064414v1	2025-08-19	Staphylococcus aureus		1.2					GCF_030644145.1-RS_2025_08_19	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_001611365.1	ASM161136v1	2025-08-19	Staphylococcus aureus		ST20130942					GCF_001611365.1-RS_2025_08_19	Complete Genome	2016-04-05		2	Staphylococcus aureus
+GCF_024399375.1	ASM2439937v1	2025-08-19	Staphylococcus aureus		Sta2021027					GCF_024399375.1-RS_2025_08_19	Complete Genome	2022-07-25		1	Staphylococcus aureus
+GCF_030533935.1	ASM3053393v1	2025-08-18	Staphylococcus aureus		SA17-SX					GCF_030533935.1-RS_2025_08_18	Complete Genome	2023-07-25		2	Staphylococcus aureus
+GCF_030644125.1	ASM3064412v1	2025-08-18	Staphylococcus aureus		1.3					GCF_030644125.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030644165.1	ASM3064416v1	2025-08-18	Staphylococcus aureus		1.1					GCF_030644165.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030644025.1	ASM3064402v1	2025-08-18	Staphylococcus aureus		1.9a					GCF_030644025.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030643965.1	ASM3064396v1	2025-08-18	Staphylococcus aureus		2.3b					GCF_030643965.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030643985.1	ASM3064398v1	2025-08-18	Staphylococcus aureus		2.2					GCF_030643985.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030643925.1	ASM3064392v1	2025-08-18	Staphylococcus aureus		2.6					GCF_030643925.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030644105.1	ASM3064410v1	2025-08-18	Staphylococcus aureus		1.4					GCF_030644105.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030644085.1	ASM3064408v1	2025-08-18	Staphylococcus aureus		1.5					GCF_030644085.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_030644045.1	ASM3064404v1	2025-08-18	Staphylococcus aureus		1.8					GCF_030644045.1-RS_2025_08_18	Complete Genome	2023-08-04		1	Staphylococcus aureus
+GCF_020702545.2	ASM2070254v2	2025-08-17	Staphylococcus aureus		0610-H-2A					GCF_020702545.2-RS_2025_08_17	Complete Genome	2022-06-27		3	Staphylococcus aureus
+GCF_019134635.1	ASM1913463v1	2025-08-16	Staphylococcus aureus		WHC07					GCF_019134635.1-RS_2025_08_16	Complete Genome	2021-07-06		1	Staphylococcus aureus
+GCF_052049695.1	ASM5204969v1	2025-08-15	Staphylococcus aureus		NM2025-6					GCF_052049695.1-RS_2025_08_15	Complete Genome	2025-08-16		1	Staphylococcus aureus
+GCF_019134615.1	ASM1913461v1	2025-08-15	Staphylococcus aureus		WHC09					GCF_019134615.1-RS_2025_08_15	Complete Genome	2021-07-06		2	Staphylococcus aureus
+GCF_022163365.2	ASM2216336v2	2025-08-10	Staphylococcus aureus		MN8					GCF_022163365.2-RS_2025_08_10	Complete Genome	2024-05-02		1	Staphylococcus aureus
+GCF_022163485.2	ASM2216348v2	2025-08-10	Staphylococcus aureus		FRI-1169					GCF_022163485.2-RS_2025_08_10	Complete Genome	2024-05-02		2	Staphylococcus aureus
+GCF_030534215.1	ASM3053421v1	2025-08-07	Staphylococcus aureus		SA03-SX					GCF_030534215.1-RS_2025_08_07	Complete Genome	2023-07-25		1	Staphylococcus aureus
+GCF_024296845.1	ASM2429684v1	2025-08-07	Staphylococcus aureus		MN8					GCF_024296845.1-RS_2025_08_07	Complete Genome	2022-07-17		1	Staphylococcus aureus
+GCF_030534135.1	ASM3053413v1	2025-08-07	Staphylococcus aureus		SA07-SX					GCF_030534135.1-RS_2025_08_07	Complete Genome	2023-07-25		1	Staphylococcus aureus
+GCF_030534195.1	ASM3053419v1	2025-08-07	Staphylococcus aureus		SA04-SX					GCF_030534195.1-RS_2025_08_07	Complete Genome	2023-07-25		2	Staphylococcus aureus
+GCF_030534255.1	ASM3053425v1	2025-08-07	Staphylococcus aureus		SA01-SX					GCF_030534255.1-RS_2025_08_07	Complete Genome	2023-07-25		1	Staphylococcus aureus
+GCF_030534235.1	ASM3053423v1	2025-08-07	Staphylococcus aureus		SA02-SX					GCF_030534235.1-RS_2025_08_07	Complete Genome	2023-07-25		1	Staphylococcus aureus
+GCF_030534055.1	ASM3053405v1	2025-08-06	Staphylococcus aureus		SA11-SX					GCF_030534055.1-RS_2025_08_06	Complete Genome	2023-07-25		2	Staphylococcus aureus
+GCF_030534095.1	ASM3053409v1	2025-08-06	Staphylococcus aureus		SA09-SX					GCF_030534095.1-RS_2025_08_06	Complete Genome	2023-07-25		1	Staphylococcus aureus
+GCF_030533465.1	ASM3053346v1	2025-08-06	Staphylococcus aureus		SA38-SX					GCF_030533465.1-RS_2025_08_06	Complete Genome	2023-07-25		1	Staphylococcus aureus
+GCF_030533495.1	ASM3053349v1	2025-08-06	Staphylococcus aureus		SA37-SX					GCF_030533495.1-RS_2025_08_06	Complete Genome	2023-07-25		1	Staphylococcus aureus
+GCF_030533665.1	ASM3053366v1	2025-08-06	Staphylococcus aureus		SA29-SX					GCF_030533665.1-RS_2025_08_06	Complete Genome	2023-07-25		2	Staphylococcus aureus
+GCF_019342925.1	ASM1934292v1	2025-08-31	Streptococcus pyogenes		ABC221					GCF_019342925.1-RS_2025_08_31	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019343065.1	ASM1934306v1	2025-08-31	Streptococcus pyogenes		ABC25					GCF_019343065.1-RS_2025_08_31	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019342985.1	ASM1934298v1	2025-08-31	Streptococcus pyogenes		ABC157					GCF_019342985.1-RS_2025_08_31	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019343085.1	ASM1934308v1	2025-08-31	Streptococcus pyogenes		ABC3					GCF_019343085.1-RS_2025_08_31	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019343005.1	ASM1934300v1	2025-08-31	Streptococcus pyogenes		ABC155					GCF_019343005.1-RS_2025_08_31	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019343045.1	ASM1934304v1	2025-08-31	Streptococcus pyogenes		ABC76					GCF_019343045.1-RS_2025_08_31	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019342865.1	ASM1934286v1	2025-08-31	Streptococcus pyogenes		TSPY637					GCF_019342865.1-RS_2025_08_31	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019342905.1	ASM1934290v1	2025-08-30	Streptococcus pyogenes		ABC245					GCF_019342905.1-RS_2025_08_30	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019342945.1	ASM1934294v1	2025-08-30	Streptococcus pyogenes		ABC208					GCF_019342945.1-RS_2025_08_30	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019342885.1	ASM1934288v1	2025-08-30	Streptococcus pyogenes		TSPY515					GCF_019342885.1-RS_2025_08_30	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019343025.1	ASM1934302v1	2025-08-30	Streptococcus pyogenes		ABC122					GCF_019343025.1-RS_2025_08_30	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019342845.1	ASM1934284v1	2025-08-30	Streptococcus pyogenes		TSPY806					GCF_019342845.1-RS_2025_08_30	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_019342965.1	ASM1934296v1	2025-08-30	Streptococcus pyogenes		ABC199					GCF_019342965.1-RS_2025_08_30	Complete Genome	2021-07-26		1	Streptococcus pyogenes
+GCF_000167435.2	ASM16743v2	2025-08-26	Streptococcus pyogenes		M49 591					GCF_000167435.2-RS_2025_08_26	Complete Genome	2021-07-23		1	Streptococcus pyogenes
+GCF_014218015.1	ASM1421801v1	2025-08-18	Streptococcus pyogenes		37-97S					GCF_014218015.1-RS_2025_08_18	Complete Genome	2020-08-17		1	Streptococcus pyogenes
+GCF_000230295.1	ASM23029v1	2025-08-18	Streptococcus pyogenes Alab49		Alab49					GCF_000230295.1-RS_2025_08_18	Complete Genome	2011-10-07		1	Streptococcus pyogenes
+GCF_051628085.1	ASM5162808v1	2025-07-31	Streptococcus pyogenes		M5					GCF_051628085.1-RS_2025_07_31	Complete Genome	2025-08-01		1	Streptococcus pyogenes
+GCF_051530335.1	ASM5153033v1	2025-07-25	Streptococcus pyogenes		MGAS37806					GCF_051530335.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530245.1	ASM5153024v1	2025-07-25	Streptococcus pyogenes		MGAS37816					GCF_051530245.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530365.1	ASM5153036v1	2025-07-25	Streptococcus pyogenes		MGAS37803					GCF_051530365.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530275.1	ASM5153027v1	2025-07-25	Streptococcus pyogenes		MGAS37813					GCF_051530275.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530295.1	ASM5153029v1	2025-07-25	Streptococcus pyogenes		MGAS37810					GCF_051530295.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530375.1	ASM5153037v1	2025-07-25	Streptococcus pyogenes		MGAS37802					GCF_051530375.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530315.1	ASM5153031v1	2025-07-25	Streptococcus pyogenes		MGAS37808					GCF_051530315.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530285.1	ASM5153028v1	2025-07-25	Streptococcus pyogenes		MGAS37812					GCF_051530285.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530305.1	ASM5153030v1	2025-07-25	Streptococcus pyogenes		MGAS37809					GCF_051530305.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530355.1	ASM5153035v1	2025-07-25	Streptococcus pyogenes		MGAS37804					GCF_051530355.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530345.1	ASM5153034v1	2025-07-25	Streptococcus pyogenes		MGAS37805					GCF_051530345.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530255.1	ASM5153025v1	2025-07-25	Streptococcus pyogenes		MGAS37815					GCF_051530255.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530325.1	ASM5153032v1	2025-07-25	Streptococcus pyogenes		MGAS37807					GCF_051530325.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530385.1	ASM5153038v1	2025-07-25	Streptococcus pyogenes		MGAS37800					GCF_051530385.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_051530265.1	ASM5153026v1	2025-07-25	Streptococcus pyogenes		MGAS37814					GCF_051530265.1-RS_2025_07_25	Complete Genome	2025-07-29		1	Streptococcus pyogenes
+GCF_005161605.1	ASM516160v1	2025-07-24	Streptococcus pyogenes		emm22.8					GCF_005161605.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005160925.1	ASM516092v1	2025-07-24	Streptococcus pyogenes		emm55					GCF_005160925.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005161985.1	ASM516198v1	2025-07-24	Streptococcus pyogenes		emm58					GCF_005161985.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005163865.1	ASM516386v1	2025-07-24	Streptococcus pyogenes		emm75.1					GCF_005163865.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005164705.1	ASM516470v1	2025-07-24	Streptococcus pyogenes		emm25					GCF_005164705.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005162245.1	ASM516224v1	2025-07-24	Streptococcus pyogenes		emm97.1					GCF_005162245.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005163565.1	ASM516356v1	2025-07-24	Streptococcus pyogenes		emm11					GCF_005163565.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005161465.1	ASM516146v1	2025-07-24	Streptococcus pyogenes		emm78.3					GCF_005161465.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005164305.1	ASM516430v1	2025-07-24	Streptococcus pyogenes		emm77					GCF_005164305.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005165385.1	ASM516538v1	2025-07-24	Streptococcus pyogenes		emm197					GCF_005165385.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005163085.1	ASM516308v1	2025-07-24	Streptococcus pyogenes		emm123					GCF_005163085.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_005164885.1	ASM516488v1	2025-07-24	Streptococcus pyogenes		emm90.5					GCF_005164885.1-RS_2025_07_24	Complete Genome	2019-05-06		1	Streptococcus pyogenes
+GCF_004028355.1	ASM402835v1	2025-07-23	Streptococcus pyogenes		CCUG 4207					GCF_004028355.1-RS_2025_07_23	Complete Genome	2019-01-17		1	Streptococcus pyogenes
+GCF_013306985.1	ASM1330698v1	2025-07-23	Streptococcus pyogenes		4063-05					GCF_013306985.1-RS_2025_07_23	Complete Genome	2020-06-09		1	Streptococcus pyogenes
+GCF_002557755.1	ASM255775v1	2025-07-16	Streptococcus pyogenes		HarveyGAS					GCF_002557755.1-RS_2025_07_16	Complete Genome	2017-10-16		1	Streptococcus pyogenes
+GCF_003812645.1	ASM381264v1	2025-07-16	Streptococcus pyogenes		FDAARGOS_534					GCF_003812645.1-RS_2025_07_16	Complete Genome	2018-11-21		1	Streptococcus pyogenes
+GCF_000993765.1	ASM99376v1	2025-07-15	Streptococcus pyogenes		AP1					GCF_000993765.1-RS_2025_07_15	Complete Genome	2015-05-07		1	Streptococcus pyogenes
+GCF_001021955.1	ASM102195v1	2025-07-15	Streptococcus pyogenes		5448					GCF_001021955.1-RS_2025_07_15	Complete Genome	2015-06-08		1	Streptococcus pyogenes
+GCF_052271875.1	ASM5227187v1	2025-08-28	Vibrio cholerae		classical 0395					GCF_052271875.1-RS_2025_08_28	Complete Genome	2025-08-30		2	Vibrio cholerae
+GCF_051903285.1	ASM5190328v1	2025-08-08	Vibrio cholerae		classical A103					GCF_051903285.1-RS_2025_08_08	Complete Genome	2025-08-09		2	Vibrio cholerae
+GCF_051903295.1	ASM5190329v1	2025-08-08	Vibrio cholerae		classical 569B					GCF_051903295.1-RS_2025_08_08	Complete Genome	2025-08-09		2	Vibrio cholerae
+GCF_003591575.1	ASM359157v1	2025-07-19	Vibrio cholerae		FORC_073					GCF_003591575.1-RS_2025_07_19	Complete Genome	2018-09-24		2	Vibrio cholerae
+GCF_013085145.1	ASM1308514v1	2025-07-06	Vibrio cholerae O1 biovar El Tor		DRC-193A					GCF_013085145.1-RS_2025_07_06	Complete Genome	2020-05-13		2	Vibrio cholerae
+GCF_013085105.1	ASM1308510v1	2025-07-06	Vibrio cholerae O1 biovar El Tor		C6709					GCF_013085105.1-RS_2025_07_06	Complete Genome	2020-05-13		2	Vibrio cholerae
+GCF_013085075.1	ASM1308507v1	2025-07-06	Vibrio cholerae C6706		C6706					GCF_013085075.1-RS_2025_07_06	Complete Genome	2020-05-13		2	Vibrio cholerae
+GCF_013085165.1	ASM1308516v1	2025-07-06	Vibrio cholerae O1 biovar El Tor		E7946					GCF_013085165.1-RS_2025_07_06	Complete Genome	2020-05-13		2	Vibrio cholerae
+GCF_009938115.1	ASM993811v1	2025-06-30	Vibrio cholerae O1		AAS91					GCF_009938115.1-RS_2025_06_30	Complete Genome	2020-01-28		2	Vibrio cholerae
+GCF_040412195.1	ASM4041219v1	2025-06-29	Vibrio cholerae		Sudan_2019_18					GCF_040412195.1-RS_2025_06_29	Complete Genome	2024-06-30		2	Vibrio cholerae
+GCF_047524955.2	ASM4752495v2	2025-06-28	Vibrio cholerae		MLK181					GCF_047524955.2-RS_2025_06_28	Complete Genome	2025-06-29		3	Vibrio cholerae
+GCF_051046905.1	ASM5104690v1	2025-06-25	Vibrio cholerae		19MO03SH03-1					GCF_051046905.1-RS_2025_06_25	Complete Genome	2025-06-26		2	Vibrio cholerae
+GCF_009763045.1	ASM976304v1	2025-05-26	Vibrio cholerae		3541-04					GCF_009763045.1-RS_2025_05_26	Complete Genome	2019-12-18		2	Vibrio cholerae
+GCF_030062725.1	ASM3006272v1	2025-05-22	Vibrio cholerae		MS84A					GCF_030062725.1-RS_2025_05_22	Complete Genome	2023-05-22		2	Vibrio cholerae
+GCF_018336415.1	ASM1833641v1	2025-05-22	Vibrio cholerae O37		ATCC 25872					GCF_018336415.1-RS_2025_05_22	Complete Genome	2021-05-11		2	Vibrio cholerae
+GCF_050500225.1	ASM5050022v1	2025-05-21	Vibrio cholerae		GD25VC001					GCF_050500225.1-RS_2025_05_21	Complete Genome	2025-05-22		2	Vibrio cholerae
+GCF_023169825.1	ASM2316982v1	2025-05-14	Vibrio cholerae		V130003					GCF_023169825.1-RS_2025_05_14	Complete Genome	2022-04-02		2	Vibrio cholerae
+GCF_017948345.1	ASM1794834v1	2025-05-14	Vibrio cholerae MO10		MO10					GCF_017948345.1-RS_2025_05_14	Complete Genome	2021-04-14		2	Vibrio cholerae
+GCF_039602145.1	ASM3960214v1	2025-05-10	Vibrio cholerae		LK-18					GCF_039602145.1-RS_2025_05_10	Complete Genome	2024-05-11		2	Vibrio cholerae
+GCF_013357605.1	ASM1335760v1	2025-04-27	Vibrio cholerae		W10G					GCF_013357605.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357885.1	ASM1335788v1	2025-04-27	Vibrio cholerae		SA3G					GCF_013357885.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357865.1	ASM1335786v1	2025-04-27	Vibrio cholerae		SA10G					GCF_013357865.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357845.1	ASM1335784v1	2025-04-27	Vibrio cholerae		SA7G					GCF_013357845.1-RS_2025_04_27	Complete Genome	2020-06-17		4	Vibrio cholerae
+GCF_013357825.1	ASM1335782v1	2025-04-27	Vibrio cholerae		E7G					GCF_013357825.1-RS_2025_04_27	Complete Genome	2020-06-17		3	Vibrio cholerae
+GCF_013357805.1	ASM1335780v1	2025-04-27	Vibrio cholerae		W7G					GCF_013357805.1-RS_2025_04_27	Complete Genome	2020-06-17		3	Vibrio cholerae
+GCF_013357785.1	ASM1335778v1	2025-04-27	Vibrio cholerae		W6G					GCF_013357785.1-RS_2025_04_27	Complete Genome	2020-06-17		3	Vibrio cholerae
+GCF_003063885.1	ASM306388v1	2025-04-27	Vibrio cholerae		Sa5Y					GCF_003063885.1-RS_2025_04_27	Complete Genome	2018-04-23		2	Vibrio cholerae
+GCF_013357625.1	ASM1335762v1	2025-04-27	Vibrio cholerae		SL4G					GCF_013357625.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357745.1	ASM1335774v1	2025-04-27	Vibrio cholerae		SP6G					GCF_013357745.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357645.1	ASM1335764v1	2025-04-27	Vibrio cholerae		SL5Y					GCF_013357645.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357665.1	ASM1335766v1	2025-04-27	Vibrio cholerae		SO5Y					GCF_013357665.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357725.1	ASM1335772v1	2025-04-27	Vibrio cholerae		SL6Y					GCF_013357725.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357765.1	ASM1335776v1	2025-04-27	Vibrio cholerae		SP7G					GCF_013357765.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_013357685.1	ASM1335768v1	2025-04-27	Vibrio cholerae		L6G					GCF_013357685.1-RS_2025_04_27	Complete Genome	2020-06-17		2	Vibrio cholerae
+GCF_009763825.1	ASM976382v1	2025-04-18	Vibrio cholerae		F9993					GCF_009763825.1-RS_2025_04_18	Complete Genome	2019-12-18		2	Vibrio cholerae
+GCF_003719755.1	ASM371975v1	2025-04-18	Vibrio cholerae		E4					GCF_003719755.1-RS_2025_04_18	Complete Genome	2018-11-11		3	Vibrio cholerae
+GCF_009762915.1	ASM976291v1	2025-04-18	Vibrio cholerae		2015V-1126					GCF_009762915.1-RS_2025_04_18	Complete Genome	2019-12-18		2	Vibrio cholerae
+GCF_000963555.1	ASM96355v1	2025-04-18	Vibrio cholerae O1 biovar El Tor		FJ147					GCF_000963555.1-RS_2025_04_18	Complete Genome	2015-03-26		2	Vibrio cholerae
+GCF_004328575.1	ASM432857v1	2025-04-11	Vibrio cholerae		20000					GCF_004328575.1-RS_2025_04_11	Complete Genome	2019-03-06		2	Vibrio cholerae
+GCF_000021625.1	ASM2162v1	2025-04-09	Vibrio cholerae O395		O395					GCF_000021625.1-RS_2025_04_09	Complete Genome	2009-04-20		2	Vibrio cholerae
+GCF_009763665.1	ASM976366v1	2025-04-08	Vibrio cholerae		2011EL-1271					GCF_009763665.1-RS_2025_04_08	Complete Genome	2019-12-18		2	Vibrio cholerae
+GCF_037101305.1	ASM3710130v1	2025-04-08	Vibrio cholerae		VN152					GCF_037101305.1-RS_2025_04_08	Complete Genome	2024-04-09		3	Vibrio cholerae
+GCF_030718765.1	ASM3071876v1	2025-04-07	Vibrio cholerae		DRC072					GCF_030718765.1-RS_2025_04_07	Complete Genome	2023-08-14		2	Vibrio cholerae
+GCF_009762985.1	ASM976298v1	2025-04-07	Vibrio cholerae		3569-08					GCF_009762985.1-RS_2025_04_07	Complete Genome	2019-12-18		2	Vibrio cholerae
+GCF_000250855.1	ASM25085v1	2025-04-07	Vibrio cholerae IEC224		IEC224					GCF_000250855.1-RS_2025_04_07	Complete Genome	2012-02-29		2	Vibrio cholerae
+GCF_003097695.1	ASM309769v1	2025-04-06	Vibrio cholerae		A1552					GCF_003097695.1-RS_2025_04_06	Complete Genome	2018-05-08		2	Vibrio cholerae
+GCF_009762895.1	ASM976289v1	2025-04-05	Vibrio cholerae		3528-08					GCF_009762895.1-RS_2025_04_05	Complete Genome	2019-12-18		2	Vibrio cholerae
+GCF_009763065.1	ASM976306v1	2025-04-05	Vibrio cholerae		2015V-1118					GCF_009763065.1-RS_2025_04_05	Complete Genome	2019-12-18		2	Vibrio cholerae
+GCF_000021605.1	ASM2160v1	2025-04-05	Vibrio cholerae M66-2		M66-2					GCF_000021605.1-RS_2025_04_05	Complete Genome	2009-04-20		2	Vibrio cholerae
+GCF_002997215.1	ASM299721v1	2025-04-04	Vibrio cholerae		A1552					GCF_002997215.1-RS_2025_04_04	Complete Genome	2018-03-14		2	Vibrio cholerae

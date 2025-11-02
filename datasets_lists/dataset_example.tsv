@@ -1,0 +1,17 @@
+Assembly Accession	Assembly Name	Annotation Release Date	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds	Species
+GCF_022631195.1	ASM2263119v1	2025-08-31	Aeromonas hydrophila		AC133					GCF_022631195.1-RS_2025_08_31	Complete Genome	2022-03-20		1	Aeromonas hydrophila
+GCF_022631175.1	ASM2263117v1	2025-08-31	Aeromonas hydrophila		AC185					GCF_022631175.1-RS_2025_08_31	Complete Genome	2022-03-20		1	Aeromonas hydrophila
+GCF_052063265.1	ASM5206326v1	2025-08-16	Aeromonas hydrophila		3					GCF_052063265.1-RS_2025_08_16	Complete Genome	2025-08-17		3	Aeromonas hydrophila
+GCF_052063275.1	ASM5206327v1	2025-08-16	Aeromonas hydrophila		4					GCF_052063275.1-RS_2025_08_16	Complete Genome	2025-08-17		3	Aeromonas hydrophila
+GCF_052063285.1	ASM5206328v1	2025-08-16	Aeromonas hydrophila		2					GCF_052063285.1-RS_2025_08_16	Complete Genome	2025-08-17		3	Aeromonas hydrophila
+GCF_052058845.1	ASM5205884v1	2025-08-16	Aeromonas hydrophila		AH-7					GCF_052058845.1-RS_2025_08_16	Complete Genome	2025-08-16		2	Aeromonas hydrophila
+GCF_052059235.1	ASM5205923v1	2025-08-16	Aeromonas hydrophila		AH-34					GCF_052059235.1-RS_2025_08_16	Complete Genome	2025-08-16		3	Aeromonas hydrophila
+GCF_052058835.1	ASM5205883v1	2025-08-16	Aeromonas hydrophila		AH-12					GCF_052058835.1-RS_2025_08_16	Complete Genome	2025-08-16		3	Aeromonas hydrophila
+GCF_024637955.1	ASM2463795v1	2025-08-30	Bacillus velezensis		EM-1					GCF_024637955.1-RS_2025_08_30	Complete Genome	2022-08-12		1	Bacillus velezensis
+GCF_030979955.1	ASM3097995v1	2025-08-30	Bacillus velezensis		NBNZ-0060					GCF_030979955.1-RS_2025_08_30	Complete Genome	2023-08-30		1	Bacillus velezensis
+GCF_019334525.1	ASM1933452v1	2025-08-26	Bacillus velezensis		LABIM44					GCF_019334525.1-RS_2025_08_26	Complete Genome	2021-07-25		1	Bacillus velezensis
+GCF_052229975.1	ASM5222997v1	2025-08-26	Bacillus velezensis		NS13					GCF_052229975.1-RS_2025_08_26	Complete Genome	2025-08-28		1	Bacillus velezensis
+GCF_024610615.1	ASM2461061v1	2025-08-24	Bacillus velezensis		PMC206					GCF_024610615.1-RS_2025_08_24	Complete Genome	2022-08-10		3	Bacillus velezensis
+GCF_019285615.1	ASM1928561v1	2025-08-21	Bacillus velezensis		LBY-1					GCF_019285615.1-RS_2025_08_21	Complete Genome	2021-07-20		4	Bacillus velezensis
+GCF_052161765.1	ASM5216176v1	2025-08-21	Bacillus velezensis		JLU-53					GCF_052161765.1-RS_2025_08_21	Complete Genome	2025-08-22		1	Bacillus velezensis
+GCF_052144505.1	ASM5214450v1	2025-08-20	Bacillus velezensis		77-E7-A5					GCF_052144505.1-RS_2025_08_20	Complete Genome	2025-08-20		1	Bacillus velezensis
