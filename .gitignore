@@ -1,0 +1,27 @@
+# Ignore runtime data and results
+data/
+results/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda environment (local only)
+RDD_env/
+env/
+
+# Logs
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Temporary files
+*.swp
+*.swo
+

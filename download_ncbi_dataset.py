@@ -130,8 +130,12 @@ def parse_arguments():
     
     parser.add_argument(
         "-i", "--input_tsv", type=Path, required=True, help="Input TSV file with 'Assembly Accession' column")
+    
+    """
     parser.add_argument(
         "-o", "--dataset_folder", type=Path, default=None, help="Dataset folder of the downloaded fasta.")
+    """
+    
     parser.add_argument("--batch_size", type=int, default=100, help="Number of genomes per batch (default=100)")
 
     return parser.parse_args()
@@ -143,11 +147,11 @@ def main():
     args = parse_arguments()
     
     input_tsv = args.input_tsv
-    dataset_folder = args.dataset_folder
+    #dataset_folder = args.dataset_folder
     batch_size = args.batch_size
 
     
-    if dataset_folder is None:
+    if True: #dataset_folder is None:
         script_dir = Path(__file__).resolve().parent # Path to the folder where the script is located
 
         dataset_name = input_tsv.stem
