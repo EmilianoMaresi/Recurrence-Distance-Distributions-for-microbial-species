@@ -6,8 +6,45 @@ import argparse
 from pathlib import Path
 from methods.kmers_distributions import *
 from methods.run_classifiers import *
+from methods.run_clustering import *
 import sys
-sys.stdout.reconfigure(line_buffering=True) #doesn't buffer stdout redirected on file
+import time
+from datetime import timedelta
+
+sys.stdout.reconfigure(line_buffering=True) #doesn't buffer stdout redirected on file, prints line by line
+
+'''
+def format_time(t):
+    # Convert seconds to h:m:s
+    return time.strftime("%H:%M:%S", time.gmtime(t))
+
+def format_time(t):
+    """Convert seconds to a formatted string including days, hours, minutes, and seconds."""
+    delta = timedelta(seconds=int(t))
+    days = delta.days
+    hours, remainder = divmod(delta.seconds, 3600)
+    minutes, seconds = divmod(remainder, 60)
+    
+    if days > 0:
+        return f"{days}d {hours:02d}:{minutes:02d}:{seconds:02d}"
+    return f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+'''
+
+def format_time(t):
+    """Convert seconds (float) to a formatted string including days, hours, minutes, 
+    and seconds with 4 decimal places."""
+    days, remainder = divmod(t, 86400)
+    hours, remainder = divmod(remainder, 3600)
+    minutes, remainder = divmod(remainder, 60)
+    seconds = remainder  # float with fractional seconds
+
+    # Format seconds to have 2 integer digits and 4 decimal places (e.g., 05.1235)
+    sec_str = f"{seconds:07.4f}"
+
+    if days > 0:
+        return f"{int(days)}d {int(hours):02d}:{int(minutes):02d}:{sec_str}"
+    return f"{int(hours):02d}:{int(minutes):02d}:{sec_str}"
+
 
 def parse_arguments():
     #Input arguments parser
@@ -32,10 +69,17 @@ def parse_arguments():
         "-cpu", "--cpu_processes", type=int, default=2, help = "Number of CPU processes to use, minimum of 2 (default: 2).")
     parser.add_argument(
         "-top", "--top_kmers_selection", type=int, default=20,help="Number of the top kmers to be selected by coefficient of variation (CoV).")
+
+    '''
     parser.add_argument(
         "-min", "--min_fragment_length", type=int, default=0, help = "Minimum AFLP fragment length considered. Used only on classification.")
     parser.add_argument(
         "-max", "--max_fragment_length", type=int, default=1500, help = "Maximum AFLP fragment length considered. Used in the extraction of the AFLP distributions and classification.")
+    '''
+    parser.add_argument(
+        "-f", "--fragment_length", type=int, default=1500, 
+        help = "Maximum AFLP fragment length considered. Used in the extraction of the AFLP distributions and classification.")
+    
     parser.add_argument(
         "--genus", action="store_true", help="Uses the genus of the genomes instead of the species as labels for classification."
     )
@@ -64,13 +108,16 @@ def main():
     cpu_processes = args.cpu_processes
     input_dataset_path = args.input_dataset_path
     result_folder_path = args.result_folder_path
-    min_fragment_length = args.min_fragment_length
-    max_fragment_length = args.max_fragment_length
-
+    fragment_length = args.fragment_length
+ 
     genus_only_labels = args.genus
     aflp_only = args.aflp_only
     aflp_folder = args.aflp_folder
-    
+
+    window_size = fragment_length - (kmer_start_size + kmer_end_size) +1 #example: 1500 (fragment) - 6(kmer_start) - 6(kmer_end) + 1
+    if window_size <= 0:
+        raise ValueError("Calculated window_size must be greater than 0. Check your fragment or k-mer sizes.")
+        
     #If no result folder path is given, results will be saved in a default result folder
     if result_folder_path is None:
         script_dir = Path(__file__).resolve().parent.parent # Path to the folder where the script is located
@@ -82,50 +129,63 @@ def main():
 
     
     print("\nInput parameters:")
-    print(f"  CPUs                 : {cpu_processes}")
-    print(f"  input dataset        : {input_dataset_path}")
-    print(f"  result folder        : {result_folder_path}")
-    print(f"  kmer_start_size      : {kmer_start_size}")
-    print(f"  kmer_end_size        : {kmer_end_size}")
-    print(f"  top_kmers_selection  : {top_kmers_selection}")    
-    print(f"  minimum fragment length  : {min_fragment_length}")
-    print(f"  maximum fragment length  : {max_fragment_length}")
-    print(f"  genus only labels  : {genus_only_labels}")
+    print(f"  CPUs                     : {cpu_processes}")
+    print(f"  input dataset            : {input_dataset_path}")
+    print(f"  result folder            : {result_folder_path}")
+    print(f"  kmer_start_size          : {kmer_start_size}")
+    print(f"  kmer_end_size            : {kmer_end_size}")
+    print(f"  top_kmers_selection      : {top_kmers_selection}")    
+    print(f"  fragment length          : {fragment_length}")
+    print(f"  search window size       : {window_size}")
+    print(f"  genus only labels        : {genus_only_labels}")
         
     print()
 
 
-    if not aflp_folder:
-        #Step 1: kmers processing
+    total_time_start = time.time()
+    
+    if not Path(result_folder_path, "kmer_pairs.csv").exists(): #if kmer pairs are not computed
+        #Step 1: kmer pairs processing
         kmers_processing(input_dataset_path=input_dataset_path, result_folder_path=result_folder_path,
                          kmer_start_size=kmer_start_size, kmer_end_size=kmer_end_size, 
-                         top_kmers_selection=top_kmers_selection, cpu_processes=cpu_processes
+                         cpu_processes=cpu_processes, window_size = window_size
                         )
+    else:
+        print("kmer pairs already computed - Resuming...")
+
     
-        
+    if not aflp_folder:    
         #Step 2: AFLP features extraction
-        aflp_folder = aflp_processing(input_dataset_path=input_dataset_path, result_folder_path=result_folder_path,
-                                      cpu_processes=cpu_processes, min_fragment_length=0,
-                                      max_fragment_length=max_fragment_length
+        aflp_folder = aflp_processing(input_dataset_path=input_dataset_path, 
+                                      result_folder_path=result_folder_path,
+                                      top_kmers_selection=top_kmers_selection, 
+                                      cpu_processes=cpu_processes, 
+                                      fragment_length=fragment_length
                                      )
+        #Check the valid or invalid AFLPs
+        aflp_validity_df = summarize_aflp_validity(aflp_folder)
+        aflp_validity_df.to_csv(Path(result_folder_path,"aflp_validity.csv"), index= False)
+    else:
+        print("AFLP fragments distributions already computed")
     
     if aflp_only:
         print("Only AFLP option: True - resulting AFLP saved in folder:", aflp_folder)
         print("Program finished successfully.")
-        return
+        return #terminate program
 
-    
+        
     #Step 3: classification 
-    #Input: Distributions with fragments occurrences
-    run_classifiers(input_folder=aflp_folder, min_fragment_length=min_fragment_length, 
-                    max_fragment_length=max_fragment_length, cpu_processes=cpu_processes, binarized_distributions=False, 
+    run_classifiers(input_folder=aflp_folder,
+                    fragment_length=fragment_length, 
+                    cpu_processes=cpu_processes, 
                     genus_only_labels=genus_only_labels
                    )
-
     
-    #Input: AFLP binarized --> presence/absence
-    run_classifiers(input_folder=aflp_folder, min_fragment_length=min_fragment_length, 
-                    max_fragment_length=max_fragment_length, cpu_processes=cpu_processes, binarized_distributions=True,
-                    genus_only_labels=genus_only_labels
-                   )
+    #Step 4: clustering
+    run_clustering(input_folder=aflp_folder, cpu_processes=cpu_processes)
+    
+
+    total_time_elapsed = time.time() - total_time_start
+    print("\nProgram Total elapsed time:", format_time(total_time_elapsed))
+    
     print("Program finished successfully.")
