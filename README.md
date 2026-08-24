@@ -57,7 +57,8 @@ After installation, all commands are run using `launch_rdd.sh`
 ```bash
 ./example.sh
 ```
-- Extracts AFLP distribution features and performs classification.
+---
+## Results folder
 - Results are saved in `results/`:
 
 ```
