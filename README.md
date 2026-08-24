@@ -91,7 +91,7 @@ Run the main pipeline:
 `./launch_rdd.sh run -i data/<ncbi_dataset> -s <kmer_start_size> -e <kmer_end_size> -cpu <number of CPUs>`
 
 where 
-- `data/<ncbi_dataset>` is the folder containing the downloaded dataset obtained in the previous step with `./launch_rdd.sh download -i <ncbi_dataset.tsv>`
+- `data/<ncbi_dataset>` folder contains the downloaded dataset obtained with `./launch_rdd.sh download -i <ncbi_dataset.tsv>`
 - `<kmer_start_size>` is the length of the start kmer of the AFLP fragment
 - `<kmer_end_size>` is the length of the end kmer of the AFLP fragment
 - `<number of CPUs>` is the number of CPUs/processes you want to use
