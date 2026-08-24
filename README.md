@@ -1,7 +1,15 @@
-# AFLP Classification Pipeline
+# Description
 
-Bioinformatics pipeline designed to evaluate bacterial species discrimination using an Amplified Fragment Length Polymorphism (AFLP)-inspired approach.
-Given a dataset of bacterial genomes (e.g., from NCBI), the tool identifies the optimal k-mer pairs to compute fragment length distributions. It then validates the discriminative power of these distributions through a dual pipeline featuring machine learning classification (MLP, Random Forest, XGBoost) and hierarchical clustering for taxonomy reconstruction.
+Bioinformatics pipeline that simulates Amplified Fragment Length Polymorphism (AFLP) analysis in silico.
+
+Given a dataset of bacterial genomic FASTAs (e.g., from NCBI), the tool identifies the optimal k-mer pairs and computes the distribution of fragment lengths occurring between them. 
+It then evaluates the discriminative power of these fragment distributions through a dual downstream pipeline:
+
+- *Machine Learning Classification:* Benchmarks species separation using 3 classifiers (MLP, Random Forest, and XGBoost) with cross-validation (reporting accuracy and F1-score).
+
+- *Taxonomic Reconstruction:* Performs average-linkage hierarchical clustering to reconstruct bacterial taxonomies, evaluated via ARI, NMI, and silhouette scores.
+
+Wrapped in a custom Docker image for complete reproducibility and ease of deployment.
 
 ---
 
@@ -45,13 +53,6 @@ Uninstall the docker image with:
 ## Usage
 After installation, all commands are run using `launch_rdd.sh`
 
-### Download Example Dataset
-```bash
-./launch_rdd.sh download -i datasets_lists/dataset_example.tsv
-```
-- Downloads genomes listed in `dataset_example.tsv` into `data/dataset_example/`.
-- The script automatically retries failed downloads until all genomes are obtained.
-
 ### Run Example
 ```bash
 ./example.sh
@@ -61,12 +62,24 @@ After installation, all commands are run using `launch_rdd.sh`
 
 ```
 results/
- ├── aflp/           # AFLP distributions for each k-mer pair
- └── classifiers/    # Classification performance reports
+ ├── aflp/               # AFLP distributions for each k-mer pair
+ ├── classifiers/        # Classification performance reports
+ ├── clusters/           # Clustering performance reports
+ ├── kmer_pairs.csv      # optimal kmer-pairs identified to extract AFLP fragments distributions
+ ├── aflp_validity.csv   # Listo of valid AFLP distributions identified in the ganomes for the identified kmer pairs
+ ├── kmer_k6_multiplicities.csv  # Matrix of kmer occurrences, includes only shared kmers among all genomes
+ ├── kmer_k6_multiplicities_normalized.csv  # Normalized matrix of kmer occurrences, includes only shared kmers among all genomes
+ └── genomes_length.csv  # Meta information on the fasta genomes of the dataset (file name, species, genome length)
 ```
 
 ### Help
-To see the full list of arguments for each script:
+
+Launcher help:
+```bash
+./launch_rdd.sh
+```
+
+To see the help for the individual tools:
 ```bash
 ./launch_rdd.sh download -h
 ./launch_rdd.sh run -h
@@ -93,33 +106,40 @@ Performs:
 
 - AFLP distribution feature extraction
 - Classification using Random Forest, MLP, and XGBoost
-
+- Clustering using hierarchical clustering with average-linkage
+ 
 Example:
 ```bash
 ./launch_rdd.sh run -i data/dataset_example -s 6 -e 6 -top 2 -cpu 2
 ```
 
-Results:
-
-- Saved in `results/` folder containing:
+Results are saved in `results/` folder containing:
 - `aflp/` — AFLP distributions
-- `classifiers/` — classification performance reports
+- `classifiers/` — classification reports
+- `clustering/` — clustering reports
 
 Classifier output files:
-- `classifiers_results.csv` — raw AFLP occurrences
-- `classifiers_results_binarized.csv` — binarized AFLP presence/absence
-- `classifiers_results_genus.csv` — using genus labels (--genus option)
-- `classifiers_results_binarized_genus.csv` — binarized with genus labels
+- `classifiers_results.csv` (default) — classifiers performances using AFLP fragment distributions (identified as kmer pairs, e.g. ACTGCC-TTCTCC)
+- `classifiers_results_genus.csv` (only with `--genus` option) — classifiers results when using genera as labels
+- `classifiers_summary.csv` — Summary of the classifiers results for the three classifiers used to validate
+
+Clustering output files:
+- `clustering_results.csv` — clustering performances using AFLP fragment distributions (identified as kmer pairs, e.g. ACTGCC-TTCTCC)
+- `clustering_summary.csv` — Summary resuming the performance of the MLP, Random Forest and XGBoost classifiers
+
 ---
 ## Folder Structure Overview
 ```
 methods/
- ├── classifiers/
- │    ├── mlp.py
- │    ├── random_forest.py
- │    ├── xgboost_model.py
- │    └── model_params.py
- └── (other utility scripts)
+ ├── classifiers/           # Definition of the classifiers and their methods
+ │    ├── mlp.py            # MultiLayer Perceptron Classifier (MLP)
+ │    ├── random_forest.py  # Random Forest Classifier
+ │    ├── xgboost_model.py  # XGBoost Classifier
+ │    └── model_params.py   # Model parameters for MLP, Random Forest and XGBoost classifiers
+ └── kmers_distributions.py # computation of optimal kmer-pairs and AFLP fragment distribution extraction
+ └── run_classifiers.py     # classifiers pipeline
+ └── run_clustering.py      # clustering pipeline and methods
+ └── pipeline.py            # general pipeline
 ```
 
 - New classifiers can be added under `methods/classifiers/` as Python classes and imported in `run_classifiers.py`.
