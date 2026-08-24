@@ -59,17 +59,6 @@ Uninstall the docker image with:
 ## Results folder
 - Results are saved in `results/`:
 
-```
-results/
- ├── aflp/                                  # AFLP distributions for each k-mer pair
- ├── classifiers/                           # Classification performance reports
- ├── clusters/                              # Clustering performance reports
- ├── kmer_pairs.csv                         # optimal kmer-pairs ranked by score
- ├── aflp_validity.csv                      # Valid AFLP distributions
- ├── kmer_k6_multiplicities.csv             # Matrix of kmer occurrences
- ├── kmer_k6_multiplicities_normalized.csv  # Normalized matrix of kmer occurrences
- └── genomes_length.csv                     # Meta information on the fasta genomes ```
-```
 ---
 ## Pipeline Usage description
 
@@ -114,10 +103,11 @@ Example (resuming from previous example of downloading a dataset):
 This runs the pipeline on the dataset data/mio_dataset setting a kmer_start_size of length 6 and a kmer_end_size of length 6, using 2 CPUs.
 
 ## Results folder
-- Results are saved in `results/`:
+- Results are saved in `results/<result folder>` where the result folder name follows the template `<ncbi_dataset>_k_s<kmer_start_size>_e<kmer_end_size>`:
+- e.g. `results/mio_dataset_k_s6_e6/`
 
 ```
-results/
+results/<result folder>
  ├── aflp/                                  # AFLP distributions for each k-mer pair
  ├── classifiers/                           # Classification performance reports
  ├── clusters/                              # Clustering performance reports
@@ -125,7 +115,7 @@ results/
  ├── aflp_validity.csv                      # Valid AFLP distributions
  ├── kmer_k6_multiplicities.csv             # Matrix of kmer occurrences
  ├── kmer_k6_multiplicities_normalized.csv  # Normalized matrix of kmer occurrences
- └── genomes_length.csv                     # Meta information on the fasta genomes ```
+ └── genomes_length.csv                     # Meta information on the fasta genomes
 ```
 
 `classifiers` contains the files:
