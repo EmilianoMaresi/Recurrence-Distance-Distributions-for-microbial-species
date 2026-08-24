@@ -50,12 +50,10 @@ Uninstall the docker image with:
 ./uninstall.sh
 ```
 ---
-## Usage
-After installation, all commands are run using `launch_rdd.sh`
 
 ### Run Example
 ```bash
-./example.sh
+./example_docker.sh
 ```
 ---
 ## Results folder
@@ -71,64 +69,76 @@ results/
  ├── kmer_k6_multiplicities.csv             # Matrix of kmer occurrences
  ├── kmer_k6_multiplicities_normalized.csv  # Normalized matrix of kmer occurrences
  └── genomes_length.csv                     # Meta information on the fasta genomes ```
+```
+---
+## Pipeline Usage description
+
+After installation, all commands are run using the launcher `launch_rdd.sh`
 
 ### Help
-
-Launcher help:
+General launcher help:
 ```bash
 ./launch_rdd.sh
 ```
 
 To see the help for the individual tools:
 ```bash
-./launch_rdd.sh download -h
-./launch_rdd.sh run -h
+./launch_rdd.sh download -h # supporting tool to automatically download fasta genomes from NCBI
+./launch_rdd.sh run -h      # the actual pipeline
 ```
----
-## Scripts Descriptions
 
-`download_ncbi_dataset.py`
-Downloads the genomes listed in a .tsv file (usually the NCBI summary file obtained from the NCBI Datasets search page https://www.ncbi.nlm.nih.gov/datasets/genome/. 
-- e.g. search for bacterial genomes: https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=2
+## How to download genomes from NCBI and use them as datasets
 
-Example:
-```bash
-./launch_rdd.sh download -i datasets_lists/dataset_example.tsv
-```
-Output:
+Run the supporting tool with:
+`./launch_rdd.sh download -i <ncbi_dataset.tsv>`
 
-- Genomes saved in `data/dataset_example/`, divided by species
-- The `zip/` subfolder contains raw downloaded archives (can be deleted after extraction)
+Where `<ncbi_dataset.tsv>` is obtained from the "NCBI datasets genomes" web page https://www.ncbi.nlm.nih.gov/datasets/genome/ by selecting the checkboxes of the genomes and downloading the table with the buttong Download > Download Table > ncbi_dataset.tsv (you can rename it before downloading it).
+- e.g. search for bacterial genomes: https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=2, set Filters of choice, Download > Download Table > mio_dataset.tsv
+- Run `./laung_rdd.sh download -i mio_dataset.tsv`
+- the dataset will be downloaded in the folder `data`, with each fasta divided by species subfolders
+- The `data/zip/` subfolder contains raw downloaded archives (can be deleted after the download ends. If download is interrupted it can be resumed from where it left (useful for large datasets)
 
-`main.py`
+Run the main pipeline:
+`./launch_rdd.sh run -i data/<ncbi_dataset> -s <kmer_start_size> -e <kmer_end_size> -cpu <number of CPUs>`
 
-Performs:
-
-- AFLP distribution feature extraction
-- Classification using Random Forest, MLP, and XGBoost
-- Clustering using hierarchical clustering with average-linkage
+where 
+- `data/<ncbi_dataset>` is the folder containing the downloaded dataset obtained in the previous step with `./launch_rdd.sh download -i <ncbi_dataset.tsv>`
+- `<kmer_start_size>` is the length of the start kmer of the AFLP fragment
+- `<kmer_end_size>` is the length of the end kmer of the AFLP fragment
+- `<number of CPUs>` is the number of CPUs/processes you want to use
  
-Example:
+Example (resuming from previous example of downloading a dataset):
 ```bash
-./launch_rdd.sh run -i data/dataset_example -s 6 -e 6 -top 2 -cpu 2
+./launch_rdd.sh run -i data/mio_dataset -s 6 -e 6 -cpu 2
+```
+This runs the pipeline on the dataset data/mio_dataset setting a kmer_start_size of length 6 and a kmer_end_size of length 6, using 2 CPUs.
+
+## Results folder
+- Results are saved in `results/`:
+
+```
+results/
+ ├── aflp/                                  # AFLP distributions for each k-mer pair
+ ├── classifiers/                           # Classification performance reports
+ ├── clusters/                              # Clustering performance reports
+ ├── kmer_pairs.csv                         # optimal kmer-pairs ranked by score
+ ├── aflp_validity.csv                      # Valid AFLP distributions
+ ├── kmer_k6_multiplicities.csv             # Matrix of kmer occurrences
+ ├── kmer_k6_multiplicities_normalized.csv  # Normalized matrix of kmer occurrences
+ └── genomes_length.csv                     # Meta information on the fasta genomes ```
 ```
 
-Results are saved in `results/` folder containing:
-- `aflp/` — AFLP distributions
-- `classifiers/` — classification reports
-- `clustering/` — clustering reports
-
-Classifier output files:
+`classifiers` contains the files:
 - `classifiers_results.csv` (default) — classifiers performances using AFLP fragment distributions (identified as kmer pairs, e.g. ACTGCC-TTCTCC)
 - `classifiers_results_genus.csv` (only with `--genus` option) — classifiers results when using genera as labels
 - `classifiers_summary.csv` — Summary of the classifiers results for the three classifiers used to validate
 
-Clustering output files:
+`clusters` contains the files:
 - `clustering_results.csv` — clustering performances using AFLP fragment distributions (identified as kmer pairs, e.g. ACTGCC-TTCTCC)
 - `clustering_summary.csv` — Summary resuming the performance of the MLP, Random Forest and XGBoost classifiers
 
 ---
-## Folder Structure Overview
+## Scripts structure overview
 ```
 methods/
  ├── classifiers/           # Definition of the classifiers and their methods
@@ -143,7 +153,6 @@ methods/
 ```
 
 - New classifiers can be added under `methods/classifiers/` as Python classes and imported in `run_classifiers.py`.
-
 - New parameter presets can be added as dictionaries in `model_params.py`.
 ---
 
