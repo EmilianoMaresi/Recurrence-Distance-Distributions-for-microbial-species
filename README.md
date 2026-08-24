@@ -1,7 +1,8 @@
 # AFLP Classification Pipeline
 
-This repository provides a pipeline for extracting **AFLP distributions** from genome datasets and classifying them using **Random Forest**, **MLP**, and **XGBoost** models.
+Bioinformatics pipeline designed to evaluate bacterial species discrimination using an Amplified Fragment Length Polymorphism (AFLP)-inspired approach.
 
+Given a dataset of bacterial genomes (e.g., from NCBI), the tool identifies the optimal k-mer pairs to compute fragment length distributions. It then validates the discriminative power of these distributions through a dual pipeline featuring machine learning classification (MLP, Random Forest, XGBoost) and hierarchical clustering for taxonomy reconstruction.
 ---
 ## Installation
 
@@ -31,7 +32,12 @@ Build the Docker image containing all dependencies:
 ```
 - If the image already exists, the script will ask if you want to rebuild it.
 - The Docker image includes all Python packages from environment.yml and makes the pipeline portable and reproducible.
-
+---
+## Uninstall
+Uninstall the docker image with:
+```bash
+./uninstall.sh
+```
 ---
 ## Usage
 After installation, all commands are run using `launch_rdd.sh`
