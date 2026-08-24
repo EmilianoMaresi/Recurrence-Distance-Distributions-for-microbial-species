@@ -5,9 +5,9 @@ Bioinformatics pipeline that simulates Amplified Fragment Length Polymorphism (A
 Given a dataset of bacterial genomic FASTAs (e.g., from NCBI), the tool identifies the optimal k-mer pairs and computes the distribution of fragment lengths occurring between them. 
 It then evaluates the discriminative power of these fragment distributions through a dual downstream pipeline:
 
-- *Machine Learning Classification:* Benchmarks species separation using 3 classifiers (MLP, Random Forest, and XGBoost) with cross-validation (reporting accuracy and F1-score).
+- **Machine Learning Classification:** Benchmarks species separation using 3 classifiers (MLP, Random Forest, and XGBoost) with cross-validation (reporting accuracy and F1-score).
 
-- *Taxonomic Reconstruction:* Performs average-linkage hierarchical clustering to reconstruct bacterial taxonomies, evaluated via ARI, NMI, and silhouette scores.
+- **Taxonomic Reconstruction:** Performs average-linkage hierarchical clustering to reconstruct bacterial taxonomies, evaluated via ARI, NMI, and silhouette scores.
 
 Wrapped in a custom Docker image for complete reproducibility and ease of deployment.
 
@@ -63,15 +63,14 @@ After installation, all commands are run using `launch_rdd.sh`
 
 ```
 results/
- ├── aflp/               # AFLP distributions for each k-mer pair
- ├── classifiers/        # Classification performance reports
- ├── clusters/           # Clustering performance reports
- ├── kmer_pairs.csv      # optimal kmer-pairs identified to extract AFLP fragments distributions
- ├── aflp_validity.csv   # Listo of valid AFLP distributions identified in the ganomes for the identified kmer pairs
- ├── kmer_k6_multiplicities.csv  # Matrix of kmer occurrences, includes only shared kmers among all genomes
- ├── kmer_k6_multiplicities_normalized.csv  # Normalized matrix of kmer occurrences, includes only shared kmers among all genomes
- └── genomes_length.csv  # Meta information on the fasta genomes of the dataset (file name, species, genome length)
-```
+ ├── aflp/                                  # AFLP distributions for each k-mer pair
+ ├── classifiers/                           # Classification performance reports
+ ├── clusters/                              # Clustering performance reports
+ ├── kmer_pairs.csv                         # optimal kmer-pairs ranked by score
+ ├── aflp_validity.csv                      # Valid AFLP distributions
+ ├── kmer_k6_multiplicities.csv             # Matrix of kmer occurrences
+ ├── kmer_k6_multiplicities_normalized.csv  # Normalized matrix of kmer occurrences
+ └── genomes_length.csv                     # Meta information on the fasta genomes ```
 
 ### Help
 
@@ -137,9 +136,9 @@ methods/
  │    ├── random_forest.py  # Random Forest Classifier
  │    ├── xgboost_model.py  # XGBoost Classifier
  │    └── model_params.py   # Model parameters for MLP, Random Forest and XGBoost classifiers
- └── kmers_distributions.py # computation of optimal kmer-pairs and AFLP fragment distribution extraction
- └── run_classifiers.py     # classifiers pipeline
- └── run_clustering.py      # clustering pipeline and methods
+ ├── kmers_distributions.py # computation of optimal kmer-pairs and AFLP fragment distribution extraction
+ ├── run_classifiers.py     # classifiers pipeline
+ ├── run_clustering.py      # clustering pipeline and methods
  └── pipeline.py            # general pipeline
 ```
 
