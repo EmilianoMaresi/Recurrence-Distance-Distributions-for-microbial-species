@@ -44,19 +44,19 @@ Build the Docker image containing all dependencies:
 
 ---
 
-## Uninstall
+### Uninstall
 Uninstall the docker image with:
 ```bash
 ./uninstall.sh
 ```
 ---
 
-### Run Example
+## Run Example
 ```bash
 ./example_docker.sh
 ```
 ---
-## Results folder
+### Results folder
 - Results are saved in `results/`:
 
 ---
