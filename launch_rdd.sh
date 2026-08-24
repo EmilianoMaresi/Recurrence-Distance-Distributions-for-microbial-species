@@ -68,12 +68,14 @@ shift
 case "$COMMAND" in
     download)
         docker run --rm \
+            --user "$(id -u):$(id -g)" \
             -v "$SCRIPT_DIR/datasets_lists:/app/datasets_lists" \
             -v "$SCRIPT_DIR/data:/app/data" \
             "$IMAGE_NAME" download_ncbi_dataset.py "$@"
         ;;
     run)
         docker run --rm \
+            --user "$(id -u):$(id -g)" \
             -v "$SCRIPT_DIR/data:/app/data" \
             -v "$SCRIPT_DIR/results:/app/results" \
             "$IMAGE_NAME" main.py "$@"
