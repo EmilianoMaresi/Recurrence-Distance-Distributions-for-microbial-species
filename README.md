@@ -42,6 +42,16 @@ Build the Docker image containing all dependencies:
 - If the image already exists, the script will ask if you want to rebuild it.
 - The Docker image includes all Python packages from environment.yml and makes the pipeline portable and reproducible.
 
+### STEP 3: Compile and install 3rd party software "dolier-kfreqs"
+Compile the DoLier Tools (Copyright (C) 2019 Vincenzo Bonnici) from the GitHub:
+https://github.com/vbonnici/DoLiER
+
+This will compile the file `dolier-kfreqs.cpp` into `dolier-kfreqs.so`.
+
+Put the compiled "dolier-kfreqs.so" file into the folder `methods/dolier/` to have `methods/dolier/dolier-kfreqs.so` 
+
+PS: soon this step will be automated in the docker installation.
+
 ---
 
 ### Uninstall
